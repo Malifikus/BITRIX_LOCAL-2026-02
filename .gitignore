@@ -9,10 +9,10 @@ docker-compose.override.yml
 www/upload/
 
 # Bitrix core — НЕ в Git!
-www/bitrix/
-!www/bitrix/.settings.php
-!www/bitrix/php_interface/
-!www/bitrix/php_interface/init.php
+www/bitrix/****
+!www/bitrix/**.settings.php
+!www/bitrix/**php_interface/
+!www/bitrix/**php_interface/init.php
 
 # Composer
 /vendor/
@@ -23,3 +23,5 @@ www/bitrix/
 *.swp
 .DS_Store
 Thumbs.db
+
+# Комментарий для Git
