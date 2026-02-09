@@ -1,0 +1,20 @@
+<?php
+$MESS["MAIL_CLIENT_CONFIG_HAS_CHANGED_NOTIFY_MESSAGE_F"] = "a modifié les paramètres pour #EMAIL#.";
+$MESS["MAIL_CLIENT_CONFIG_HAS_CHANGED_NOTIFY_MESSAGE_M"] = "a modifié les paramètres pour #EMAIL#.";
+$MESS["MAIL_CLIENT_CONFIG_HAS_CHANGED_NOTIFY_MESSAGE_PARAMS_F"] = "#AUTHOR# a modifié les paramètres pour #EMAIL#.";
+$MESS["MAIL_CLIENT_CONFIG_HAS_CHANGED_NOTIFY_MESSAGE_PARAMS_M"] = "#AUTHOR# a modifié les paramètres pour #EMAIL#.";
+$MESS["MAIL_MASS_CONNECTING_MAILBOX_NOTIFICATION_NOTIFY_MESSAGE_F"] = "a connecté une boîte de réception #EMAIL# pour vous.";
+$MESS["MAIL_MASS_CONNECTING_MAILBOX_NOTIFICATION_NOTIFY_MESSAGE_M"] = "a connecté une boîte de réception #EMAIL# pour vous.";
+$MESS["MAIL_MASS_CONNECTING_MAILBOX_NOTIFICATION_SUBJECT_F"] = "#AUTHOR# a connecté une boîte de réception [URL=#LINK#]#EMAIL#[/URL] pour vous.";
+$MESS["MAIL_MASS_CONNECTING_MAILBOX_NOTIFICATION_SUBJECT_M"] = "#AUTHOR# a connecté une boîte de réception [URL=#LINK#]#EMAIL#[/URL] pour vous.";
+$MESS["MAIL_NOTIFY_FULL_MAILBOX_TARIFF_RESTRICTIONS_HAVE_BEEN_IMPOSED"] = "Vous avez opté pour un abonnement qui prend en charge un nombre de boîtes de réception inférieur à celui de votre abonnement actuel. L'accès à #EMAIL# a été temporairement fermé. Aucun prospect et aucune transaction ne seront créés à partir des e-mails entrants. Les réponses envoyées par les clients à cette adresse e-mail ne seront pas enregistrées dans le système CRM. Pour activer cette boîte de réception, désactivez les boîtes de réception que vous n'utilisez pas ou optez pour un abonnement supérieur.";
+$MESS["MAIL_NOTIFY_IMPOSE_TARIFF_RESTRICTIONS_ON_THE_MAILBOX"] = "Nombre maximal de boîtes de réception dépassé";
+$MESS["MAIL_NOTIFY_MAILBOX_TARIFF_RESTRICTIONS_HAVE_BEEN_IMPOSED"] = "L'accès à \"<a target=\"_blank\" href=\"#VIEW_URL#\">#EMAIL#</a>\" a été temporairement fermé, car le nombre de boîtes de réception dépasse la limite de votre abonnement actuel.<br/><br/><a target=\"_blank\" href=\"#VIEW_URL#\">En savoir plus</a>";
+$MESS["MAIL_NOTIFY_NEW_MESSAGE"] = "Nouveau message";
+$MESS["MAIL_NOTIFY_NEW_MESSAGE_MULTI_1"] = "Nouveaux e-mails : #COUNT#<br/><br/><a target=\"_blank\" href=\"#VIEW_URL#\">Afficher</a>";
+$MESS["MAIL_NOTIFY_NEW_MESSAGE_TITLE"] = "E-mail";
+$MESS["MAIL_NOTIFY_NEW_SINGLE_MESSAGE_IN_MAIL_CLIENT_1"] = "Nouvel e-mail : <a target=\"_blank\" href=\"#VIEW_URL#\">\"#SUBJECT#\"</a>";
+$MESS["MAIL_NOTIFY_NEW_SINGLE_MESSAGE_IN_MAIL_CLIENT_EMPTY_SUBJECT"] = "<a target=\"_blank\" href=\"#VIEW_URL#\">Nouvel e-mail</a>";
+$MESS["MAIL_PUSH_NOTIFY_NEW_MESSAGE_MULTI"] = "Nouveaux messages : #COUNT#.";
+$MESS["MAIL_PUSH_NOTIFY_NEW_SINGLE_MESSAGE_IN_MAIL_CLIENT"] = "Nouveau message : \"#SUBJECT#\".";
+$MESS["MAIL_PUSH_NOTIFY_NEW_SINGLE_MESSAGE_IN_MAIL_CLIENT_EMPTY_SUBJECT"] = "Vous avez reçu un nouveau message.";

@@ -1,0 +1,27 @@
+# Docker
+.env
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Uploads — НЕ в Git!
+www/upload/
+
+# Кэш Битрикс — НЕ в Git!
+www/bitrix/cache/
+www/bitrix/managed_cache/
+www/bitrix/tmp/
+
+# Composer
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Системные файлы
+Thumbs.db
+EOF

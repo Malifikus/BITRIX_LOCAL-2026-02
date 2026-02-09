@@ -1,0 +1,25 @@
+<?php
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_ADD_MEMBERS_TITLE"] = "Agregar miembros al chat";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_ADD_MORE"] = "Agregar";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_ADD_MSGVER_1"] = "Agregar usuario";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_CANCEL_BUTTON"] = "Cancelar";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_FORWARD_TITLE"] = "Reenviar el mensaje";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_FORWARD_TITLE_SEVERAL_MESSAGES"] = "Reenviar mensajes";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_INVITE_BUTTON"] = "Invitar";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_CHAT_SHOW_HISTORY"] = "Mostrar el historial del chat";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_COPY_LINK"] = "Copiar el enlace";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DEFAULT_LANGUAGE_TITLE"] = "#LANG_NAME# (predeterminado)";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TEXT_EMPLOYEE"] = "Los invitados son miembros de collab que no son empleados de su empresa. Invite a socios, clientes, equipos y contratistas externos. Los invitados solo tendrán acceso a este collab.";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TEXT_GUEST"] = "Agregue usuarios a su collab para trabajar juntos y evitar enviar mensajes a varios chats o mensajeros.";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TITLE_EMPLOYEE"] = "Invite a otras personas al collab";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_DESCRIPTION_TITLE_GUEST"] = "Invite a otros usuarios";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_HELPDESK_LINK"] = "Más información";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_INVITE_BY_EMAIL"] = "Invitar mediante correo electrónico";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_INVITE_BY_LINK"] = "Invitar utilizando el enlace";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_INVITE_BY_PHONE_OR_EMAIL"] = "Invitar mediante número de teléfono y correo electrónico";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_INVITE_LANGUAGE_TITLE"] = "Idioma de la invitación:";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_LANGUAGE_SELECTOR_HINT"] = "Esto solo seleccionará el idioma que se utilizará para la invitación y la interfaz de usuario del invitado.";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_LINK_UPDATE_HINT"] = "Cree un nuevo enlace de invitación para invalidar el que se generó anteriormente.";
+$MESS["IM_ENTITY_SELECTOR_ADD_TO_COLLAB_TITLE"] = "Agregar al collab";
+$MESS["IM_ENTITY_SELECTOR_EMPLOYEES_TAB"] = "Empleados";
+$MESS["IM_ENTITY_SELECTOR_GUESTS_TAB"] = "Invitados";

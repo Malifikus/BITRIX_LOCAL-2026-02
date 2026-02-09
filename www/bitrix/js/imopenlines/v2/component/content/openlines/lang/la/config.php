@@ -1,0 +1,16 @@
+<?php
+$MESS["IMOL_CONTENT_BUTTON_TRANSFER"] = "Reenviar";
+$MESS["IMOL_CONTENT_CHAT_ACCESS_ERROR_MSGVER_1"] = "No es miembro de este chat o el chat fue eliminado.";
+$MESS["IMOL_CONTENT_CHAT_CONTEXT_MESSAGE_NOT_FOUND"] = "No se encontró el mensaje";
+$MESS["IMOL_CONTENT_HEADER_BUTTON_FINISH"] = "Cerrar la conversación";
+$MESS["IMOL_CONTENT_HEADER_BUTTON_INTERCEPT"] = "Retomar la conversación";
+$MESS["IMOL_CONTENT_HEADER_BUTTON_PIN"] = "Asignarlo a mí";
+$MESS["IMOL_CONTENT_HEADER_BUTTON_SPAM"] = "Marcar como spam / Forzar el cierre";
+$MESS["IMOL_CONTENT_HEADER_BUTTON_UNPIN"] = "Desasignarlo de mí";
+$MESS["IMOL_CONTENT_START_MESSAGE"] = "Seleccione un contacto de la lista para iniciar una conversación.";
+$MESS["IMOL_CONTENT_TEXTAREA_JOIN_PANEL_ANSWER"] = "Responder";
+$MESS["IMOL_CONTENT_TEXTAREA_JOIN_PANEL_CLOSE"] = "Cerrar";
+$MESS["IMOL_CONTENT_TEXTAREA_JOIN_PANEL_JOIN_BUTTON"] = "Unirse";
+$MESS["IMOL_CONTENT_TEXTAREA_JOIN_PANEL_SKIP"] = "Omitir";
+$MESS["IMOL_CONTENT_TEXTAREA_JOIN_PANEL_START"] = "Iniciar";
+$MESS["IMOL_ENTITY_SELECTOR_CHAT_TRANSFER_CANCEL_BUTTON"] = "Cancelar";

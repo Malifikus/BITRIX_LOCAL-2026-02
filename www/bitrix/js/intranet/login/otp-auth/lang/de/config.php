@@ -1,0 +1,26 @@
+<?php
+$MESS["INTRANET_AUTH_OTP_ALTERNATIVE_WAY"] = "Andere Loginmethoden";
+$MESS["INTRANET_AUTH_OTP_ALTERNATIVE_WAY_TITLE"] = "Wählen Sie die Methode der Loginbestätigung aus";
+$MESS["INTRANET_AUTH_OTP_CAPTCHA_PROMT"] = "Geben Sie die Zeichen ein, die Sie auf dem Bild sehen";
+$MESS["INTRANET_AUTH_OTP_CONFIRM_AUTH"] = "Bestätigen Sie Ihren Login in der Bitrix24 mobilen App";
+$MESS["INTRANET_AUTH_OTP_CONFIRM_LOGIN"] = "Login bestätigen";
+$MESS["INTRANET_AUTH_OTP_CONFIRM_TEXT"] = "Öffnen Sie Ihre Bitrix24 App, um den Login zu bestätigen.";
+$MESS["INTRANET_AUTH_OTP_CONTINUE_BUTTON"] = "Fortfahren";
+$MESS["INTRANET_AUTH_OTP_HELP"] = "Hilfe";
+$MESS["INTRANET_AUTH_OTP_INPUT_RECOVERY_CODE"] = "Geben Sie einen Ihrer Reserve-Codes ein.";
+$MESS["INTRANET_AUTH_OTP_LINK"] = "Einloggen";
+$MESS["INTRANET_AUTH_OTP_MORE"] = "Mehr erfahren";
+$MESS["INTRANET_AUTH_OTP_PLACEHOLDER"] = "Geben Sie Ihr Einmalpasswort ein";
+$MESS["INTRANET_AUTH_OTP_PUSH_SENDED"] = "Eine Anfrage wurde an Ihr Gerät gesendet.";
+$MESS["INTRANET_AUTH_OTP_RECOVERY_CODES"] = "Reserve-Code";
+$MESS["INTRANET_AUTH_OTP_RECOVERY_CODES_DESC"] = "Sie können Ihre Reserve-Codes verwenden, wenn Sie diese nach der Aktivierung der Zwei-Faktor-Authentifizierung bereitgestellt haben.";
+$MESS["INTRANET_AUTH_OTP_RECOVER_ACCESS"] = "Account wiederherstellen";
+$MESS["INTRANET_AUTH_OTP_RECOVER_ACCESS_TEXT"] = "Bitte wenden Sie sich an Ihren Bitrix24  Administrator, um Ihren Account wiederherzustellen.";
+$MESS["INTRANET_AUTH_OTP_RECOVER_ACCESS_TITLE"] = "Login kann nicht bestätigt werden";
+$MESS["INTRANET_AUTH_OTP_REMEMBER_ME"] = "Passwort auf diesem Gerät speichern";
+$MESS["INTRANET_AUTH_OTP_RESEND_PUSH"] = "Anfrage erneut senden";
+$MESS["INTRANET_AUTH_OTP_SMS"] = "SMS";
+$MESS["INTRANET_AUTH_OTP_SMS_COUNTDOWN"] = "Einen neuen Code in #SEC# Sekunden anfordern.";
+$MESS["INTRANET_AUTH_OTP_SMS_RESEND"] = "Den Code erneut senden";
+$MESS["INTRANET_AUTH_OTP_SMS_SENDED"] = "Bestätigungscode wurde an #NUMBER# gesendet.";
+$MESS["INTRANET_AUTH_OTP_TITLE"] = "In Bitrix24 einloggen";

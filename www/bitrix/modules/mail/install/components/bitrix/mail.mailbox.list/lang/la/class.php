@@ -1,0 +1,4 @@
+<?php
+$MESS["MAIL_MAILBOX_GRID_MASSCONNECT_BUTTON"] = "Conectar";
+$MESS["MAIL_MAILBOX_LIST_CONFIG_PERMISSIONS_BUTTON"] = "Permisos de acceso";
+$MESS["MAIL_MAILBOX_LIST_TITLE"] = "Buzones conectados";

@@ -1,0 +1,25 @@
+<?php
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_BUTTON_BACK"] = "Zurück";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CHANGE_NUMBER_BTN"] = "Nummer ändern";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECTED_TITLE"] = "Fertig";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_CONFIRM_BTN"] = "Bestätigen";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_DESC"] = "Jetzt können Sie Ihren Login auf diesem Gerät bestätigen.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_NEXT_BTN"] = "Weiter";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_QR_DESCRIPTION"] = "Installieren Sie die mobile App. Haben Sie die App bereits installiert, öffnen Sie sie, indem Sie den QR-Code scannen. Sie brauchen die mobile App, um Ihren Login zu bestätigen.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_TITLE"] = "Mobile App installieren";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_COOLDOWN"] = "Fordern Sie einen neuen Code in #SEC# Sekunden an.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_DANGER"] = "Zeigen Sie niemandem diesen Code. Er enthält Ihre persönliche Logininformation.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_DESC"] = "Geben Sie den Code ein, den Sie in der SMS erhalten haben.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_DESCRIPTION"] = "Bestätigungscode wurde an #PHONE_NUMBER# gesendet.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_SUBTITLE"] = "Telefonnummer eingeben:";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_TITLE"] = "Telefonnummer bestätigen";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_1"] = "Scannen Sie den QR-Code mit Ihrem mobilen Gerät.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_1_MSGVER_1"] = "Scannen Sie den QR-Code mit Ihrem mobilen Gerät. Auf einem Huawei Gerät [LINK]öffnen Sie diesen Link[/LINK].";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_2"] = "Folgen Sie dem Link auf dem Bildschirm.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_3"] = "installieren Sie die App.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_4"] = "Scannen Sie den QR-Code erneut, um sich in die App einzuloggen.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_NUMBER_DESC"] = "Sie können sich immer noch mit einem SMS-Code einloggen, wenn Sie keinen Zugriff auf die App haben.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_NUMBER_TITLE"] = "Backup-Telefonnummer, um den Bestätigungscode zu bekommen";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_RESEND_CODE"] = "Einen neuen Code bekommen";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_SUCCESS_SUBTITLE"] = "Ihr Account ist geschützt.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_SUCCESS_TITLE"] = "Fertig!";

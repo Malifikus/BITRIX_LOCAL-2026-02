@@ -1,0 +1,17 @@
+<?php
+$MESS["DISK_DOCUMENTS_ACT_COPIED_INTERNAL_LINK"] = "Link copiado para a Área de Transferência";
+$MESS["DISK_DOCUMENTS_ACT_COPY_INTERNAL_LINK"] = "Copiar link interno";
+$MESS["DISK_DOCUMENTS_ACT_DELETE"] = "Excluir";
+$MESS["DISK_DOCUMENTS_ACT_DETAILS"] = "Informações";
+$MESS["DISK_DOCUMENTS_ACT_DOWNLOAD"] = "Baixar";
+$MESS["DISK_DOCUMENTS_ACT_EDIT"] = "Editar";
+$MESS["DISK_DOCUMENTS_ACT_GET_EXT_LINK"] = "Obter link público";
+$MESS["DISK_DOCUMENTS_ACT_LOCK"] = "Bloquear";
+$MESS["DISK_DOCUMENTS_ACT_OPEN"] = "Abrir";
+$MESS["DISK_DOCUMENTS_ACT_RENAME"] = "Renomear";
+$MESS["DISK_DOCUMENTS_ACT_SHARE_COMPLEX"] = "Compartilhar";
+$MESS["DISK_DOCUMENTS_ACT_SHARING"] = "Compartilhando";
+$MESS["DISK_DOCUMENTS_ACT_SHARING_2"] = "Compartilhar com outros usuários";
+$MESS["DISK_DOCUMENTS_ACT_SHOW_HISTORY"] = "Histórico de revisão";
+$MESS["DISK_DOCUMENTS_ACT_SHOW_SHARING_DETAIL_2"] = "Compartilhando";
+$MESS["DISK_DOCUMENTS_ACT_UNLOCK"] = "Desbloquear";

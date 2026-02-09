@@ -1,0 +1,4 @@
+<?php
+$MESS["CRM_INVOICE_DETAILS_COMPONENT_TIMELINE_HISTORY_STUB"] = "Vous créez une facture en ce moment";
+$MESS["CRM_INVOICE_DETAILS_COMPONENT_TITLE_COPY"] = "Copier la facture";
+$MESS["CRM_INVOICE_DETAILS_COMPONENT_TITLE_NEW"] = "Créer une facture";

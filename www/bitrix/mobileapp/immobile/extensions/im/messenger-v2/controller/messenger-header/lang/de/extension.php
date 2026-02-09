@@ -1,0 +1,7 @@
+<?php
+$MESS["IMMOBILE_MESSENGER_HEADER_BUTTON_READ_ALL"] = "Alle als gelesen markieren";
+$MESS["IMMOBILE_MESSENGER_HEADER_BUTTON_READ_ALL_TASKS"] = "Alle Aufgabenchats als gelesen markieren";
+$MESS["IMMOBILE_MESSENGER_HEADER_CONNECTION"] = "Verbinden...";
+$MESS["IMMOBILE_MESSENGER_HEADER_DEFAULT"] = "Messenger";
+$MESS["IMMOBILE_MESSENGER_HEADER_NETWORK_WAITING"] = "Warten auf Netzwerk...";
+$MESS["IMMOBILE_MESSENGER_HEADER_SYNC"] = "Wird aktualisiert…";

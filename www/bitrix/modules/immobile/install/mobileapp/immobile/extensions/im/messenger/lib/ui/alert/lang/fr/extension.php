@@ -1,0 +1,25 @@
+<?php
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_DESCRIPTION"] = "Cette chaîne, ses publications, fichiers et commentaires seront supprimés définitivement. Voulez-vous supprimer la chaîne ?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_POSTS_TITLE"] = "Supprimer les publications";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_POST_DESCRIPTION"] = "Cette publication, ses commentaires et réactions seront supprimés. Voulez-vous supprimer la publication ?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_POST_TITLE"] = "Supprimer la publication";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHANNEL_TITLE_MSGVER_1"] = "Supprimer la chaîne";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHAT_DESCRIPTION"] = "Cette conversation, ses messages et ses fichiers seront supprimés définitivement. Voulez-vous supprimer la conversation ?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_CHAT_TITLE_MSGVER_1"] = "Supprimer le chat";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_COLLAB_CONFIRM_YES"] = "Oui";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_COLLAB_DESCRIPTION"] = "Cette action supprimera la collab, y compris tout l'historique des communications. Cette action ne peut pas être annulée. Voulez-vous vraiment continuer ? ";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_COLLAB_TITLE"] = "Supprimer la collab";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_GALLERY_CONFIRM_YES"] = "Oui";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_GALLERY_DESCRIPTION"] = "Voulez-vous vraiment supprimer tous les fichiers de ce message ?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_GALLERY_TITLE"] = "Supprimer la galerie";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_DELETE_MESSAGES_TITLE"] = "Supprimer les messages sélectionnés ?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHANNEL_CONFIRM_TITLE"] = "Voulez-vous vous désabonner de la chaîne ?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHANNEL_CONFIRM_YES"] = "Oui";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHAT_CONFIRM_TITLE"] = "Voulez-vous vraiment quitter la conversation ?";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_CHAT_CONFIRM_YES"] = "Oui";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_COLLAB_CONFIRM_YES"] = "Oui";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_COLLAB_DESCRIPTION"] = "Voulez-vous quitter la collab ? Vous perdrez l'accès à la messagerie, aux tâches, aux fichiers et aux réunions de la collab.";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_LEAVE_COLLAB_TITLE"] = "Quitter la collab";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_REMOVE_COLLAB_CONFIRM_YES"] = "Oui";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_REMOVE_COLLAB_DESCRIPTION"] = "Voulez-vous supprimer ce membre de la collab ? Il perdra l'accès à la messagerie, aux tâches, aux fichiers et aux réunions de la collab.";
+$MESS["IMMOBILE_MESSENGER_UI_NOTIFY_ALERT_REMOVE_COLLAB_TITLE"] = "Supprimer le membre";

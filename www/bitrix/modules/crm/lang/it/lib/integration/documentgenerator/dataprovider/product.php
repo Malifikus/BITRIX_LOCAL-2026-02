@@ -1,0 +1,6 @@
+<?php
+$MESS["CRM_DOCGEN_DATAPROVIDER_PRODUCT_ID_TITLE"] = "ID";
+$MESS["CRM_DOCGEN_DATAPROVIDER_PRODUCT_TAX_RATE_NAME_TITLE_MSGVER_1"] = "Valore d'imposta (supporta il valore \"Nessun'imposta\")";
+$MESS["CRM_DOCGEN_DATAPROVIDER_PRODUCT_TAX_RATE_TITLE"] = "Aliquota fiscale";
+$MESS["CRM_DOCGEN_DATAPROVIDER_TITLE_FULL_TITLE"] = "Nome del prodotto contenente proprietà importanti";
+$MESS["CRM_DOCGEN_DATAPROVIDER_TITLE_TITLE"] = "Nome prodotto";

@@ -1,0 +1,6 @@
+<?php
+$MESS["CRM_TIMELINE_CLIENT_TITLE"] = "Klient";
+$MESS["CRM_TIMELINE_MARKET_PANEL_TEXT"] = "Ponad 1000 dodatków do systemu CRM";
+$MESS["CRM_TIMELINE_MARKET_PANEL_TEXT_DETAILS"] = "Dowiedz się więcej";
+$MESS["CRM_TIMELINE_MENU_FASTEN"] = "Przypnij";
+$MESS["CRM_TIMELINE_MENU_UNFASTEN"] = "Odepnij";

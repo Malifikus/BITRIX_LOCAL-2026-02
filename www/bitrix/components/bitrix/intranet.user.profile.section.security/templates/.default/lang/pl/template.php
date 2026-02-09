@@ -1,0 +1,24 @@
+<?php
+$MESS["INTRANET_USER_SECURITY_ACCOUNTS"] = "Konta: #NUM#";
+$MESS["INTRANET_USER_SECURITY_BANNER_DESC"] = "Hakerzy nie będą mogli uzyskać dostępu do konta, nawet jeśli hasło wycieknie. Bitrix24 wyśle prośbę o potwierdzenie logowania na zaufane urządzenie.";
+$MESS["INTRANET_USER_SECURITY_BANNER_TITLE"] = "Włącz uwierzytelnianie dwuskładnikowe";
+$MESS["INTRANET_USER_SECURITY_BANNER_TITLE_NEW"] = "Włącz nowe uwierzytelnianie dwuskładnikowe";
+$MESS["INTRANET_USER_SECURITY_DESCRIPTION"] = "Chroń konto, aby upewnić się, że dane osobowe i firmowe są bezpieczne.";
+$MESS["INTRANET_USER_SECURITY_EMAIL"] = "Zaloguj się przy użyciu adresu e-mail";
+$MESS["INTRANET_USER_SECURITY_EXIT_BUTTON"] = "Wyloguj się na wszystkich urządzeniach";
+$MESS["INTRANET_USER_SECURITY_EXIT_DESCRIPTION"] = "Wszystkie aktywne sesje zostaną zakończone, z wyjątkiem sesji na tym urządzeniu.";
+$MESS["INTRANET_USER_SECURITY_EXIT_SUCCESS"] = "Wylogowano pomyślnie z wszystkich urządzeń.";
+$MESS["INTRANET_USER_SECURITY_NOT_CONNECTED"] = "Wyłączone";
+$MESS["INTRANET_USER_SECURITY_NOT_SET"] = "Nie określono";
+$MESS["INTRANET_USER_SECURITY_OTP_DISABLED"] = "Wyłączone";
+$MESS["INTRANET_USER_SECURITY_OTP_ENABLED"] = "Włączone";
+$MESS["INTRANET_USER_SECURITY_PASSWORD"] = "Hasło";
+$MESS["INTRANET_USER_SECURITY_PASSWORD_CHANGE"] = "Zmień hasło";
+$MESS["INTRANET_USER_SECURITY_PASSWORD_CHANGED_MSGVER_1"] = "Hasło zmieniono #DATE#";
+$MESS["INTRANET_USER_SECURITY_PASSWORD_CHANGE_TITLE"] = "Zmień hasło";
+$MESS["INTRANET_USER_SECURITY_PHONE"] = "Numer telefonu";
+$MESS["INTRANET_USER_SECURITY_PUSH_OTP_AUTH"] = "Uwierzytelnianie dwuskładnikowe";
+$MESS["INTRANET_USER_SECURITY_RESTORE_PASSWORD"] = "Odzyskaj hasło";
+$MESS["INTRANET_USER_SECURITY_RESTORE_PASSWORD_BUTTON_EMAIL"] = "Przez e-mail";
+$MESS["INTRANET_USER_SECURITY_RESTORE_PASSWORD_BUTTON_PHONE"] = "Przez SMS";
+$MESS["INTRANET_USER_SECURITY_SOC_NET"] = "Logowanie przez sieci społecznościowe";

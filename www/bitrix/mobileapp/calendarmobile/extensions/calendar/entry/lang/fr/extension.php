@@ -1,0 +1,4 @@
+<?php
+$MESS["M_CALENDAR_ENTRY_EVENT_COLLAB_LIST_TITLE"] = "Calendrier de la collab";
+$MESS["M_CALENDAR_ENTRY_EVENT_EDIT_FORM_TITLE"] = "Événement";
+$MESS["M_CALENDAR_ENTRY_EVENT_VIEW_FORM_TITLE"] = "Nouvel événement";

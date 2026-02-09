@@ -1,0 +1,24 @@
+<?php
+$MESS["INTRANET_USER_SECURITY_ACCOUNTS"] = "Account: #NUM#";
+$MESS["INTRANET_USER_SECURITY_BANNER_DESC"] = "I malintenzionati non saranno in grado di accedere al tuo account, anche in caso di divulgazione della password. Bitrix24 invierà al tuo dispositivo sicuro una richiesta per confermare l'accesso.";
+$MESS["INTRANET_USER_SECURITY_BANNER_TITLE"] = "Abilita l'autenticazione a due fattori";
+$MESS["INTRANET_USER_SECURITY_BANNER_TITLE_NEW"] = "Abilita la nuova autenticazione a due fattori";
+$MESS["INTRANET_USER_SECURITY_DESCRIPTION"] = "Proteggi il tuo account per assicurarti che le informazioni personali e aziendali siano al sicuro.";
+$MESS["INTRANET_USER_SECURITY_EMAIL"] = "Accedi tramite e-mail";
+$MESS["INTRANET_USER_SECURITY_EXIT_BUTTON"] = "Disconnetti su tutti i dispositivi";
+$MESS["INTRANET_USER_SECURITY_EXIT_DESCRIPTION"] = "Tutte le sessioni attive verranno terminate, tranne la sessione su questo dispositivo.";
+$MESS["INTRANET_USER_SECURITY_EXIT_SUCCESS"] = "Hai effettuato la disconnessione su tutti i dispositivi.";
+$MESS["INTRANET_USER_SECURITY_NOT_CONNECTED"] = "Disabilitato";
+$MESS["INTRANET_USER_SECURITY_NOT_SET"] = "Non specificato";
+$MESS["INTRANET_USER_SECURITY_OTP_DISABLED"] = "Disabilitata";
+$MESS["INTRANET_USER_SECURITY_OTP_ENABLED"] = "Abilitata";
+$MESS["INTRANET_USER_SECURITY_PASSWORD"] = "Password";
+$MESS["INTRANET_USER_SECURITY_PASSWORD_CHANGE"] = "Modifica password";
+$MESS["INTRANET_USER_SECURITY_PASSWORD_CHANGED_MSGVER_1"] = "Password modificata in data #DATE#";
+$MESS["INTRANET_USER_SECURITY_PASSWORD_CHANGE_TITLE"] = "Modifica password";
+$MESS["INTRANET_USER_SECURITY_PHONE"] = "Telefono";
+$MESS["INTRANET_USER_SECURITY_PUSH_OTP_AUTH"] = "Autenticazione a due fattori";
+$MESS["INTRANET_USER_SECURITY_RESTORE_PASSWORD"] = "Recupera password";
+$MESS["INTRANET_USER_SECURITY_RESTORE_PASSWORD_BUTTON_EMAIL"] = "Tramite e-mail";
+$MESS["INTRANET_USER_SECURITY_RESTORE_PASSWORD_BUTTON_PHONE"] = "Tramite SMS";
+$MESS["INTRANET_USER_SECURITY_SOC_NET"] = "Accesso social";

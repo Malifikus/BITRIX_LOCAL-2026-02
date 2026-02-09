@@ -1,0 +1,43 @@
+.bx-im-sticker-header-tabs__container {
+	--im-sticker-header-tabs__background-color_highlight: var(--ui-color-accent-main-primary-alt);
+
+	display: flex;
+	align-items: center;
+	height: 46px;
+	box-sizing: border-box;
+	padding: 0 0 0 12px;
+	overflow-x: auto;
+	overflow-y: hidden;
+	scrollbar-gutter: stable;
+	position: relative;
+	scrollbar-width: none;
+}
+
+.bx-im-sticker-header-tabs__container::-webkit-scrollbar {
+	display: none;
+}
+
+.bx-im-sticker-header-tabs__highlight-container {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	width: 36px;
+	padding: 0 4px;
+	transition: .3s cubic-bezier(.25,.8,.5,1);
+}
+
+.bx-im-sticker-header-tabs__highlight {
+	height: 3px;
+	width: 28px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	background-color: var(--im-sticker-header-tabs__background-color_highlight);
+}
+
+.bx-im-sticker-header-tabs__item {
+	margin-right: 10px;
+}
+
+.bx-im-sticker-header-tabs__add-button {
+	margin-right: 8px;
+}

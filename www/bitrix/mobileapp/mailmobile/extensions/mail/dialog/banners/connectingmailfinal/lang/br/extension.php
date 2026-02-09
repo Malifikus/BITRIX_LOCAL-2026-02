@@ -1,0 +1,6 @@
+<?php
+$MESS["MAIL_CONNECTING_FINAL_MAIL_BANNER_BUTTON_1"] = "Abrir e-mail";
+$MESS["MAIL_CONNECTING_FINAL_MAIL_BANNER_DESCRIPTION"] = "Agora você pode gerenciar seus e-mails do seu Bitrix24.";
+$MESS["MAIL_CONNECTING_FINAL_MAIL_BANNER_SYNCHRONIZE_DESCRIPTION"] = "Isso levará alguns segundos.";
+$MESS["MAIL_CONNECTING_FINAL_MAIL_BANNER_SYNCHRONIZE_TITLE"] = "Sincronização em andamento";
+$MESS["MAIL_CONNECTING_FINAL_MAIL_BANNER_TITLE"] = "Caixa de correio conectada";

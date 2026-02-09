@@ -1,0 +1,5 @@
+<?php
+$MESS["CALL_COMPONENT_EFFICIENCY_0"] = "Le sujet de l'appel n'est pas clair";
+$MESS["CALL_COMPONENT_EFFICIENCY_50"] = "Moyenne";
+$MESS["CALL_COMPONENT_EFFICIENCY_75"] = "Bonne";
+$MESS["CALL_COMPONENT_EFFICIENCY_100"] = "Excellente";

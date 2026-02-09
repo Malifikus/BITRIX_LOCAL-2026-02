@@ -1,0 +1,25 @@
+<?php
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_BUTTON_BACK"] = "Volver";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CHANGE_NUMBER_BTN"] = "Cambiar número";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECTED_TITLE"] = "¡Listo!";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_CONFIRM_BTN"] = "Confirmar";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_DESC"] = "Ahora puede confirmar su inicio de sesión en este dispositivo.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_NEXT_BTN"] = "Siguiente";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_QR_DESCRIPTION"] = "Instale la aplicación móvil. Si ya tiene la aplicación instalada, ábrala escaneando el código QR. Necesitará la aplicación móvil para confirmar su inicio de sesión.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_CONNECT_TITLE"] = "Instalar la aplicación móvil";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_COOLDOWN"] = "Solicite un nuevo código en #SEC# segundos.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_DANGER"] = "Nunca muestre este código a nadie. Contiene su información personal de acceso.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_DESC"] = "Introduzca el código que se muestra en el mensaje SMS.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_DESCRIPTION"] = "El código de confirmación se envió al #PHONE_NUMBER#.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_SUBTITLE"] = "Introduzca un número de teléfono:";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_ENTER_CODE_TITLE"] = "Confirme el número de teléfono";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_1"] = "Escanee el código QR con su dispositivo.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_1_MSGVER_1"] = "Escanee el código QR con su teléfono móvil. En un dispositivo Huawei, [LINK]abra este enlace[/LINK].";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_2"] = "Siga el enlace que se muestra en la pantalla.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_3"] = "Instale la aplicación.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_LIST_4"] = "Escanee el código QR nuevamente para iniciar sesión en la aplicación.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_NUMBER_DESC"] = "Aún puede iniciar sesión con un código SMS si no tiene acceso a la aplicación.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_NUMBER_TITLE"] = "Número de teléfono de respaldo para recibir el código de confirmación";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_RESEND_CODE"] = "Obtener un nuevo código";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_SUCCESS_SUBTITLE"] = "Su cuenta está protegida.";
+$MESS["INTRANET_PUSH_OTP_CONNECT_POPUP_SUCCESS_TITLE"] = "¡Listo!";

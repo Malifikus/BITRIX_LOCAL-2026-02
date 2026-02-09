@@ -1,0 +1,21 @@
+<?php
+$MESS["CRM_PROCESS_ENTITY_COMPANY_BECOME_RESPONSIBLE"] = "Vous êtes désormais responsable de l'entreprise \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_COMPANY_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable de l'entreprise \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_CONTACT_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable du contact \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_CONTACT_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable du contact \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_DEAL_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable de la transaction \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_DEAL_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable de la transaction \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_DEFAULT_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable de l'élément de #ENTITY_TYPE_CAPTION# \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_DEFAULT_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable de l'élément de #ENTITY_TYPE_CAPTION# \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_DYNAMIC_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable de l'élément du processus intelligent \"#ENTITY_TYPE_CAPTION#\" \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_DYNAMIC_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable de l'élément du processus intelligent \"#ENTITY_TYPE_CAPTION#\" \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_LEAD_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable du prospect \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_LEAD_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable du prospect \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_ORDER_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable de la commande \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_ORDER_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable de la commande \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_QUOTE_BECOME_RESPONSIBLE_MSGVER_1"] = "Vous êtes maintenant responsable du devis \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_QUOTE_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable du devis \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_RECURRING_DEAL_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable du modèle de transaction \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_RECURRING_DEAL_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable du modèle de transaction \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_SMART_INVOICE_BECOME_RESPONSIBLE"] = "Vous êtes maintenant responsable de la facture \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";
+$MESS["CRM_PROCESS_ENTITY_SMART_INVOICE_NO_LONGER_RESPONSIBLE"] = "Vous n'êtes plus responsable de la facture \"<a href=\"#URL#\" class=\"bx-notifier-item-action\">#TITLE#</a>\".";

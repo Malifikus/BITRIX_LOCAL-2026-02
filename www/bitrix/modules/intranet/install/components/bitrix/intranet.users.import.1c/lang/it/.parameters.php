@@ -1,0 +1,3 @@
+<?
+$MESS["ISL_PERSONAL_ICQ"] = "ICQ";
+?>

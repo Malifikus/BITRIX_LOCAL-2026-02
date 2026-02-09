@@ -1,0 +1,7 @@
+<?php
+$MESS["TASKS_V2_TASK_LIST_DEADLINE_AUTO"] = "Automatycznie ustawiany";
+$MESS["TASKS_V2_TASK_LIST_DEADLINE_EMPTY"] = "Brak terminu";
+$MESS["TASKS_V2_TASK_LIST_DEADLINE_EXPIRED"] = "#DURATION# po terminie";
+$MESS["TASKS_V2_TASK_LIST_MORE_PLURAL_0"] = "Jeszcze #COUNT# zadanie";
+$MESS["TASKS_V2_TASK_LIST_MORE_PLURAL_1"] = "Jeszcze #COUNT# zadania";
+$MESS["TASKS_V2_TASK_LIST_MORE_PLURAL_2"] = "Jeszcze #COUNT# zadań";

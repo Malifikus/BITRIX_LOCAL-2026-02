@@ -1,0 +1,5 @@
+<?php
+$MESS["CALL_COMPONENT_EFFICIENCY_0"] = "Cel połączenia jest niejasny";
+$MESS["CALL_COMPONENT_EFFICIENCY_50"] = "Średnia";
+$MESS["CALL_COMPONENT_EFFICIENCY_75"] = "Dobra";
+$MESS["CALL_COMPONENT_EFFICIENCY_100"] = "Doskonała";

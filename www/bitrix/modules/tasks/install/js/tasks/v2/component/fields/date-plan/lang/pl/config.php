@@ -1,0 +1,25 @@
+<?php
+$MESS["TASKS_V2_DATE_PLAN_ALLOW_CHANGE"] = "Odpowiedzialny może edytować harmonogram";
+$MESS["TASKS_V2_DATE_PLAN_ALLOW_CHANGE_TEMPLATE"] = "Odpowiedzialny może zmienić czas trwania zadania i datę rozpoczęcia";
+$MESS["TASKS_V2_DATE_PLAN_BUTTON_SAVE"] = "Zapisz";
+$MESS["TASKS_V2_DATE_PLAN_DAYS"] = "Dni";
+$MESS["TASKS_V2_DATE_PLAN_DESCRIPTION"] = "Wybierz planowaną datę rozpoczęcia i termin wykonania zadania. Alternatywnie do wyboru terminu można określić planowany czas trwania zadania.";
+$MESS["TASKS_V2_DATE_PLAN_DESCRIPTION_TEMPLATE"] = "Określ, kiedy zadanie się rozpocznie i ile czasu powinno zająć jego wykonanie.";
+$MESS["TASKS_V2_DATE_PLAN_DURATION"] = "Czas trwania:";
+$MESS["TASKS_V2_DATE_PLAN_END"] = "Termin:";
+$MESS["TASKS_V2_DATE_PLAN_FIELD_END"] = "Termin:";
+$MESS["TASKS_V2_DATE_PLAN_FIELD_START"] = "Data rozpoczęcia:";
+$MESS["TASKS_V2_DATE_PLAN_HOURS"] = "Godz.";
+$MESS["TASKS_V2_DATE_PLAN_MATCH_SUBTASKS_TIME"] = "Synchronizuj z harmonogramami podzadań";
+$MESS["TASKS_V2_DATE_PLAN_MATCH_SUBTASKS_TIME_HINT"] = "Harmonogram zadania będzie się różnić w zależności od harmonogramów podzadań.";
+$MESS["TASKS_V2_DATE_PLAN_MATCH_SUBTASKS_TIME_STATE"] = "Zdefiniowany przez podzadania";
+$MESS["TASKS_V2_DATE_PLAN_MATCH_WORK_TIME"] = "Pomiń weekendy";
+$MESS["TASKS_V2_DATE_PLAN_MATCH_WORK_TIME_HINT"] = "Jeśli harmonogram wypada w weekend lub święto – zostanie dostosowany.";
+$MESS["TASKS_V2_DATE_PLAN_MATCH_WORK_TIME_HINT_TEMPLATE"] = "Data rozpoczęcia i czas trwania zostaną dostosowane, jeśli przypadają w weekend lub święto.";
+$MESS["TASKS_V2_DATE_PLAN_MINUTES"] = "Min";
+$MESS["TASKS_V2_DATE_PLAN_NO_SUBTASKS_HINT"] = "To zadanie nie ma jeszcze żadnych podzadań. Gdy tylko zostaną dodane, harmonogram zostanie odpowiednio dostosowany.";
+$MESS["TASKS_V2_DATE_PLAN_START"] = "Data rozpoczęcia:";
+$MESS["TASKS_V2_DATE_PLAN_START_AFTER"] = "Rozpocznij zadanie za:";
+$MESS["TASKS_V2_DATE_PLAN_TITLE"] = "Harmonogram:";
+$MESS["TASKS_V2_DATE_PLAN_TITLE_CHIP"] = "Planowanie zadań";
+$MESS["TASKS_V2_DATE_PLAN_TITLE_SHEET"] = "Planowanie zadań";

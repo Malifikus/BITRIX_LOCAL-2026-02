@@ -1,0 +1,4 @@
+<?php
+$MESS["SOCIALNETWORK_COLLAB_CHAT_USER_JOIN_F"] = "#SENDER_NAME# juntou-se à collab.";
+$MESS["SOCIALNETWORK_COLLAB_CHAT_USER_JOIN_M"] = "#SENDER_NAME# juntou-se à collab.";
+$MESS["SOCIALNETWORK_COLLAB_CHAT_USER_JOIN_N"] = "#SENDER_NAME# juntou-se à collab.";

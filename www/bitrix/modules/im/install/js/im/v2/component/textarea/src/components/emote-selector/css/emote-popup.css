@@ -1,0 +1,23 @@
+.bx-im-emote-popup__container {
+	--im-emote-popup__box-shadow_container: var(--im-color-palette-black-solid-rgb);
+	--im-emote-popup__border-color_divider: var(--ui-color-divider-vibrant-less);
+	--im-emote-popup__background-color_buttons-container: var(--ui-color-bg-vibrant-accent);
+
+	box-shadow: 0 8px 17px 0 rgba(var(--im-emote-popup__box-shadow_container), 0.21);
+	border-radius: inherit;
+}
+
+.bx-im-emote-popup__buttons-container {
+	position: absolute;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	width: 100%;
+	height: 48px;
+	border-bottom-left-radius: inherit;
+	border-bottom-right-radius: inherit;
+	border-top: 1px solid var(--im-emote-popup__border-color_divider);
+	background-color: var(--im-emote-popup__background-color_buttons-container);
+}

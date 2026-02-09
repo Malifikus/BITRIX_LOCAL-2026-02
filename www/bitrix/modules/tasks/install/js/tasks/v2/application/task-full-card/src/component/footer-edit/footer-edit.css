@@ -1,0 +1,29 @@
+.tasks-full-card-footer-edit {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+
+.tasks-full-card-footer-edit-grow {
+	flex-grow: 1;
+}
+
+.tasks-full-card-start-time-tracking-hint {
+	display: flex;
+	flex-direction: column;
+	gap: var(--ui-space-stack-sm);
+	color: var(--ui-color-base-white-fixed);
+	padding-left: var(--ui-space-inset-sm);
+}
+
+.tasks-full-card-start-time-tracking-hint-info-text {
+	color: var(--ui-color-base-white-fixed);
+}
+
+.tasks-full-card-start-time-tracking-hint-info-link {
+	display: inline;
+	color: var(--ui-color-base-6);
+	cursor: pointer;
+	width: max-content;
+	border-bottom: 1px dashed #BAD7FF;
+}

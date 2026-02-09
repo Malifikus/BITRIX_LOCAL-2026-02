@@ -1,0 +1,3 @@
+<?php
+$MESS["LANDING_COPILOT_CHAT_INPUT_PLACEHOLDER"] = "Digite suas sugestões";
+$MESS["LANDING_COPILOT_CHAT_SUBTITLE"] = "Web designer";
