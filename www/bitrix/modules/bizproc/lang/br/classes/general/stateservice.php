@@ -1,2 +1,0 @@
-<?php
-$MESS["BP_STATE_SERVICE_QUEUED_STATE_TITLE"] = "Agendado";

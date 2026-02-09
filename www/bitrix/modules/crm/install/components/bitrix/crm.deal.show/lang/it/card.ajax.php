@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_COLUMN_COMPANY_TITLE"] = "Azienda";
-$MESS["CRM_COLUMN_CONTACT_FULL_NAME"] = "Contatto";
-$MESS["CRM_OPER_EDIT"] = "Modifica";
-?>

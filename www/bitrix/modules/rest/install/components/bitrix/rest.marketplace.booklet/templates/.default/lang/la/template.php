@@ -1,3 +1,0 @@
-<?php
-$MESS["REST_MARKETPLACE_BOOKLET_BTN_SHOW_ALL"] = "ver todo";
-$MESS["REST_MARKETPLACE_BOOKLET_TITLE_NEW_APP"] = "Nuevas aplicaciones";

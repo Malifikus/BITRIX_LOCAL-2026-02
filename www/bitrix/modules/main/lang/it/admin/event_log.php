@@ -1,4 +1,0 @@
-<?
-$MESS["MAIN_EVENTLOG_ID"] = "ID";
-$MESS["MAIN_EVENTLOG_MODULE_ID"] = "Origine";
-?>

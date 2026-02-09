@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_LOG_MESSAGE_BIZPROC_TASK_COMPLETED"] = "Atribuição do fluxo de trabalho";
-$MESS["CRM_LOG_MESSAGE_BIZPROC_TASK_COMPLETED_STATUS"] = "Concluído";

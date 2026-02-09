@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_PRODUCT_AJAX_ERROR_EMPTY_ACTION"] = "Nessuna azione selezionata.";
-$MESS["CRM_PRODUCT_AJAX_ERROR_REQUIRED_PARAMETER"] = "Il parametro #PARAM# è obbligatorio ma mancante.";
-$MESS["CRM_PRODUCT_AJAX_ERROR_UNKNOWN_ACTION"] = "Azione sconosciuta: #ACTION#.";
-?>

@@ -1,5 +1,0 @@
-<?php
-$MESS["CALL_COMPONENT_EFFICIENCY_0"] = "O objetivo da chamada não é claro";
-$MESS["CALL_COMPONENT_EFFICIENCY_50"] = "Média";
-$MESS["CALL_COMPONENT_EFFICIENCY_75"] = "Boa";
-$MESS["CALL_COMPONENT_EFFICIENCY_100"] = "Excelente";

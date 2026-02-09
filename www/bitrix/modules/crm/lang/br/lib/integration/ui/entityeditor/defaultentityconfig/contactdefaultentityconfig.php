@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_CONTACT_SECTION_ADDITIONAL"] = "Mais";
-$MESS["CRM_CONTACT_SECTION_MAIN"] = "Sobre o contato";

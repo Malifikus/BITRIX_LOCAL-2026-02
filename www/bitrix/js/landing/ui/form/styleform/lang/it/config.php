@@ -1,3 +1,0 @@
-<?php
-$MESS["LANDING_REPLACE_BY_TEMPLATES_BUTTON"] = "Seleziona modello";
-$MESS["LANDING_REPLACE_BY_TEMPLATES_TITLE"] = "Modelli di moduli CRM";

@@ -1,3 +1,0 @@
-<?
-$MESS["SALE_COMPANY_RULE_COL_ID"] = "ID";
-?>

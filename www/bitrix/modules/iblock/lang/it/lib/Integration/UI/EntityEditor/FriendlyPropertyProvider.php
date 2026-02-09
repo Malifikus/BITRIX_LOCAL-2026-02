@@ -1,2 +1,0 @@
-<?php
-$MESS["IBLOCK_ENTITY_EDITOR_FRIENDLY_PROPERTY_FEATURE_PUBLIC"] = "Mostra nell'online store";

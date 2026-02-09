@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_ACTIVITY_STAT_STATUS_ANSWERED"] = "Con risposta";
-$MESS["CRM_ACTIVITY_STAT_STATUS_UNANSWERED"] = "Senza risposta";
-$MESS["CRM_ACTIVITY_STAT_STATUS_UNDEFINED"] = "Non specificato";
-?>

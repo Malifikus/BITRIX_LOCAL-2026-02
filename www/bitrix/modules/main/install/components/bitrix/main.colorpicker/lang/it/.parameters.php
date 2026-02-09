@@ -1,3 +1,0 @@
-<?
-$MESS["COMP_MAIN_COLORPICKER_ID"] = "ID";
-?>

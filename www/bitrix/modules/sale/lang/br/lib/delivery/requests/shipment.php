@@ -1,3 +1,0 @@
-<?
-$MESS["SALE_DLVR_REQ_SHP_TBL_ID_FIELD"] = "ID";
-?>

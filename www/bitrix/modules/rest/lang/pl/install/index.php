@@ -1,2 +1,0 @@
-<?php
-$MESS["REST_MODULE_NAME"] = "REST API";

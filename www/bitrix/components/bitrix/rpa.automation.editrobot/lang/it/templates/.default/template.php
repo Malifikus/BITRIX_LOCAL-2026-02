@@ -1,4 +1,0 @@
-<?
-$MESS["RPA_AUTOMATION_EDITROBOT_TPL_SAVE_SUCCESS"] = "Le modifiche sono state salvate.";
-$MESS["RPA_AUTOMATION_EDITROBOT_TPL_SECTION_MAIN"] = "Generale";
-?>

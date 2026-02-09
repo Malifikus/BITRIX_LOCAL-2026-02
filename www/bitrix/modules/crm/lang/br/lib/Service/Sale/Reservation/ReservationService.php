@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_RESERVATION_SERVICE_PRODUCT_NOT_FOUND"] = "O produto não foi encontrado.";
-$MESS["CRM_RESERVATION_SERVICE_PRODUCT_NOT_SUPPORT_RESERVATION"] = "Este produto não pode ser reservado.";

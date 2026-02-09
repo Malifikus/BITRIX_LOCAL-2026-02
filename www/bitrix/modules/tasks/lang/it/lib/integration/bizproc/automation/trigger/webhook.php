@@ -1,5 +1,0 @@
-<?
-$MESS["TASKS_AUTOMATION_TRIGGER_PASSWORD_COMMENT"] = "Creato da trigger";
-$MESS["TASKS_AUTOMATION_TRIGGER_PASSWORD_TITLE"] = "Accesso esterno per automazione incarico";
-$MESS["TASKS_AUTOMATION_TRIGGER_WEBHOOK_NAME"] = "Webhook";
-?>

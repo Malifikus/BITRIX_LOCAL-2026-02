@@ -1,5 +1,0 @@
-<?php
-$MESS["LANDING_BLOCK_MENU_22-LINK"] = "Odnośnik";
-$MESS["LANDING_BLOCK_MENU_22-NAME"] = "Menu pionowe";
-$MESS["LANDING_BLOCK_MENU_22-NAVBAR"] = "Menu";
-$MESS["LANDING_BLOCK_MENU_22_HAMB"] = "Menu mobilne";

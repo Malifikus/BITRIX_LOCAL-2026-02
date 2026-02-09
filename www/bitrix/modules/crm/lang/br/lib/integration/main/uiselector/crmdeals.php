@@ -1,3 +1,0 @@
-<?php
-$MESS["MAIN_UI_SELECTOR_TAB_CRMDEALS"] = "Negócios";
-$MESS["MAIN_UI_SELECTOR_TITLE_CRMDEALS"] = "Negócios:";

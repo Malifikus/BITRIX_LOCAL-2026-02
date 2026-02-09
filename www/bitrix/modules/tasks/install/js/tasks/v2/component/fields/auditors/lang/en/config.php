@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_V2_AUDITORS_TITLE"] = "Observers:";
-$MESS["TASKS_V2_AUDITORS_TITLE_CHIP"] = "Observers";

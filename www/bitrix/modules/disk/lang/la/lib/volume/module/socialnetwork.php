@@ -1,4 +1,0 @@
-<?php
-$MESS["DISK_VOLUME_MODULE_SOCIALNETWORK"] = "Feed y grupos de trabajo";
-$MESS["DISK_VOLUME_MODULE_SONET_FIRED_F"] = "#USER_NAME# (descartado)";
-$MESS["DISK_VOLUME_MODULE_SONET_FIRED_M"] = "#USER_NAME# (descartado)";

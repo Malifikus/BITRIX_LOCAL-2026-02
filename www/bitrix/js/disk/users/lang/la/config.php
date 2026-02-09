@@ -1,3 +1,0 @@
-<?php
-$MESS["JS_DISK_USERS_PAGINATION"] = "Más";
-$MESS["JS_DISK_USERS_TITLE"] = "Usuarios";

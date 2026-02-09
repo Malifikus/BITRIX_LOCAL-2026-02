@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_ADD"] = "Crea campagna";
-$MESS["SENDER_COMP_CAMPAIGN_EDIT_TITLE_EDIT"] = "Modifica campagna";
-?>

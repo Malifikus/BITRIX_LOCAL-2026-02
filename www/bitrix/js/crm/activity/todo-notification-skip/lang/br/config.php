@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_ACTIVITY_TODO_NOTIFICATION_CANCELED_BUTTON"] = "ativar";
-$MESS["CRM_ACTIVITY_TODO_NOTIFICATION_CANCELED_TEXT"] = "Atividades inteligentes desativadas";

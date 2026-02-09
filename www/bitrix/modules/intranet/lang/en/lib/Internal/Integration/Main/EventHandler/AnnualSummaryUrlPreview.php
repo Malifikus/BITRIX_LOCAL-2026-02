@@ -1,2 +1,0 @@
-<?php
-$MESS["INTRANET_ANNUAL_SUMMARY_URL_PREVIEW_TITLE"] = "Year in Review in Bitrix24";

@@ -1,3 +1,0 @@
-<?php
-$MESS["M_ONBOARDING_PROFILE_SHOULD_BE_FILLED_DESCRIPTION"] = "Aggiungi altre informazioni personali se vuoi farti conoscere meglio dai colleghi.";
-$MESS["M_ONBOARDING_PROFILE_SHOULD_BE_FILLED_TITLE"] = "Completa il tuo profilo";

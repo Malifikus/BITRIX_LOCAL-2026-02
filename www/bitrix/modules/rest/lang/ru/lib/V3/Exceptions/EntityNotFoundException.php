@@ -1,2 +1,0 @@
-<?
-$MESS['REST_V3_EXCEPTIONS_ENTITYNOTFOUNDEXCEPTION'] = 'Запись с ID = `#ID#` не найдена';

@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_V2_TEMPLATE_TITLE_PLACEHOLDER"] = "Nom du modèle";
-$MESS["TASKS_V2_TITLE_PLACEHOLDER"] = "Nom de la tâche";

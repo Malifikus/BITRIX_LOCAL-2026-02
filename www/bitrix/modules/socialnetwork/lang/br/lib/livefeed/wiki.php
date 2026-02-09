@@ -1,3 +1,0 @@
-<?php
-$MESS["SONET_LIVEFEED_WIKI_DELETED_PINNED_TITLE"] = "Página do Wiki: \"#TITLE#\" excluída";
-$MESS["SONET_LIVEFEED_WIKI_PINNED_TITLE"] = "Página do Wiki: #TITLE#";

@@ -1,3 +1,0 @@
-<?php
-$MESS["COMMUNICATION_EVENTS_MESSAGE_WINDOW_TITLE"] = "Nouveau message";
-$MESS["COMMUNICATION_EVENTS_UNKNOWN_LINK"] = "Adresse du site incorrecte";

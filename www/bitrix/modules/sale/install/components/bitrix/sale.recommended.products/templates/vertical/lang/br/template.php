@@ -1,3 +1,0 @@
-<?
-$MESS["SRP_CATALOG_BTN_MESSAGE_CLOSE"] = "Fechar";
-?>

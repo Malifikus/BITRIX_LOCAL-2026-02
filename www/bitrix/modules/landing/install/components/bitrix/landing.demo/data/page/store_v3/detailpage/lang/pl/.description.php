@@ -1,4 +1,0 @@
-<?php
-$MESS["LANDING_DEMO_STORE_DETAILPAGE_NAME"] = "Strona szczegółów produktu";
-$MESS["LANDING_DEMO_STORE_DETAILPAGE_TEXT_1"] = "Wstecz";
-$MESS["LANDING_DEMO_STORE_DETAILPAGE_TEXT_2"] = "Inne produkty";

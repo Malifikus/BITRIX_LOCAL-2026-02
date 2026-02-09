@@ -1,5 +1,0 @@
-<?
-$MESS["RPA_AUTOMATION_EDITROBOT_SCENARIO"] = "Tipo";
-$MESS["RPA_AUTOMATION_EDITROBOT_TITLE"] = "Adicionar atribuição";
-$MESS["RPA_AUTOMATION_EDITROBOT_TITLE_EDIT"] = "Configurar atribuição";
-?>

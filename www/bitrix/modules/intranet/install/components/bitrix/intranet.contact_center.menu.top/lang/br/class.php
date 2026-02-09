@@ -1,5 +1,0 @@
-<?php
-$MESS["MENU_CONTACT_CENTER"] = "Contact Center";
-$MESS["MENU_CONTACT_CENTER_IMOL_DETAILED_STATISTICS"] = "Conversas";
-$MESS["MENU_CONTACT_CENTER_IMOL_STATISTICS"] = "Estatísticas de conversas";
-$MESS["MENU_CONTACT_CENTER_TELEPHONY_STATISTICS"] = "Estatísticas de chamadas";

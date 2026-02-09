@@ -1,5 +1,0 @@
-<?php
-$MESS["LANDING_DEMO_STORE_SIDEBAR_NAME"] = "Barre latérale";
-$MESS["LANDING_DEMO_STORE_SIDEBAR_TEXT_1"] = "Commencer";
-$MESS["LANDING_DEMO_STORE_SIDEBAR_TEXT_2"] = "Contacts";
-$MESS["LANDING_DEMO_STORE_SIDEBAR_TEXT_3"] = "Paiement et livraison";

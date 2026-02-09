@@ -1,3 +1,0 @@
-<?php
-$MESS["MCRM_REQUISITE_DETAILS_CLOSE"] = "Fechar";
-$MESS["MCRM_REQUISITE_DETAILS_EMPTY_LIST"] = "Os dados estão vazios";

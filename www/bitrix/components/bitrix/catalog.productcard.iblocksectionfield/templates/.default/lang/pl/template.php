@@ -1,5 +1,0 @@
-<?php
-$MESS["CATALOG_IBLOCKSECTIONFIELD_IS_EMPTY_SUBTITLE"] = "Czy utworzyć nową sekcję?";
-$MESS["CATALOG_IBLOCKSECTIONFIELD_IS_EMPTY_TITLE"] = "Nie znaleziono sekcji";
-$MESS["CATALOG_IBLOCKSECTIONFIELD_PLACEHOLDER"] = "Znajdź sekcję lub utwórz nową";
-$MESS["CATALOG_IBLOCKSECTIONFIELD_SELECT"] = "wybierz sekcję";

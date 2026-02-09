@@ -1,4 +1,0 @@
-<?php
-$MESS["CRM_AUTOMATION_TRIGGER_DEDUCTED_DESCRIPTION"] = "Zmienia etap po wysłaniu produktu.";
-$MESS["CRM_AUTOMATION_TRIGGER_DEDUCTED_NAME"] = "Wysyłka";
-$MESS["CRM_AUTOMATION_TRIGGER_DEDUCTED_NAME_1"] = "Obserwuj wysyłkę produktu";

@@ -1,3 +1,0 @@
-<?php
-$MESS["LANDING_REPLACE_BY_TEMPLATES_BUTTON"] = "Wybierz szablon";
-$MESS["LANDING_REPLACE_BY_TEMPLATES_TITLE"] = "Szablony formularzy CRM";

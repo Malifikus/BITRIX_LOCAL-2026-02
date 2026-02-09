@@ -1,4 +1,0 @@
-<?
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEMEXTRA_LABEL_DISCOUNT_VALUE"] = "Marge de la commande";
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_PAYSYSTEMEXTRA_NAME"] = "Marge pour le système de paiement sélectionné";
-?>

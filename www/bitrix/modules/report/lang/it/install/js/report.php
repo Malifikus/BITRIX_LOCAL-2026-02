@@ -1,6 +1,0 @@
-<?
-$MESS["REPORT_JS_SHARING_RIGHT_EDIT"] = "Modifica";
-$MESS["REPORT_JS_SHARING_RIGHT_READ"] = "Lettura";
-$MESS["REPORT_JS_STATUS_ACTION_ERROR"] = "Questo è un errore.";
-$MESS["REPORT_JS_STATUS_ACTION_SUCCESS"] = "Riuscito";
-?>

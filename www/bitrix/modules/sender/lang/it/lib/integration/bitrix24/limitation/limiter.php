@@ -1,3 +1,0 @@
-<?
-$MESS["SENDER_INTEGRATION_BITRIX24_LIMITER_DAILY_DETAILS"] = "dettagli limite";
-?>

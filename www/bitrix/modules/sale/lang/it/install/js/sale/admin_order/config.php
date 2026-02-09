@@ -1,3 +1,0 @@
-<?php
-$MESS["SALE_JS_ADMIN_ORDER_CONF_BARCODE"] = "Codice a barre";
-$MESS["SALE_JS_ADMIN_ORDER_CONF_CLOSE"] = "Chiudi";

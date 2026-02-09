@@ -1,3 +1,0 @@
-<?php
-$MESS["PRICE_ENTITY_CATALOG_GROUP_ID_FIELD"] = "ID typu ceny";
-$MESS["PRICE_ENTITY_TIMESTAMP_X_FIELD"] = "Data modyfikacji";

@@ -1,4 +1,0 @@
-<?php
-$MESS["UI_FILE_SELECTOR_DEFAULT_TITLE"] = "Fichiers  (#NUM#)";
-$MESS["UI_FILE_SELECTOR_SAVE_BUTTON"] = "Enregistrer";
-$MESS["UI_FILE_SELECTOR_SAVE_BUTTON_LOADING"] = "Enregistrement…";

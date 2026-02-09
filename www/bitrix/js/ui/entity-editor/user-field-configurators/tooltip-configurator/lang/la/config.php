@@ -1,4 +1,0 @@
-<?php
-$MESS["UI_ENTITY_EDITOR_UF_CONFIGURATORS_TOOLTIP_CHECKBOX_LABEL"] = "Activar sugerencia del campo";
-$MESS["UI_ENTITY_EDITOR_UF_CONFIGURATORS_TOOLTIP_INPUT_LABEL"] = "Texto de información";
-$MESS["UI_ENTITY_EDITOR_UF_CONFIGURATORS_TOOLTIP_LENGTH_VALIDATION_ERROR"] = "El texto de información no debe exceder los #MAX_LENGTH# caracteres.";

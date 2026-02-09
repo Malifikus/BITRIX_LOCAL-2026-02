@@ -1,6 +1,0 @@
-<?php
-$MESS["UI_FILE_ATTACHMENT_BUTTON_ADD"] = "Ajouter un fichier";
-$MESS["UI_FILE_ATTACHMENT_DELETE_CONFIRM_TITLE_MSGVER_1"] = "Supprimer le fichier ?";
-$MESS["UI_FILE_ATTACHMENT_NAVIGATION_EDIT"] = "Modifier";
-$MESS["UI_FILE_ATTACHMENT_NAVIGATION_SAVE"] = "Enregistrer";
-$MESS["UI_FILE_ATTACHMENT_NO_FILES"] = "Rien n'est sélectionné";

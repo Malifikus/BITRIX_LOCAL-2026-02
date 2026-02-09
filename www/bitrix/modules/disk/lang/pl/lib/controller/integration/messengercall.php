@@ -1,3 +1,0 @@
-<?php
-$MESS["DISK_INTEGRATION_IM_CALL_CALL_DOCUMENT_CREATED"] = "Utworzono dokument";
-$MESS["DISK_INTEGRATION_IM_CALL_CALL_RESUME_CREATED_MSGVER_1"] = "Utworzono notatki ze spotkania.";

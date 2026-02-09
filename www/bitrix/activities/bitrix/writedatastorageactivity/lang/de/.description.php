@@ -1,4 +1,0 @@
-<?php
-$MESS["BIZPROC_STORAGE_CATEGORY"] = "Speicher";
-$MESS["BIZPROC_WRITE_DATA_ACTIVITY_DESCRIPTION"] = "Schreibt Daten in den Speicher.";
-$MESS["BIZPROC_WRITE_DATA_ACTIVITY_NAME"] = "Schreibt Daten";

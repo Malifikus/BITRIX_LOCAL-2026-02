@@ -1,6 +1,0 @@
-<?php
-
-$MESS['MAIL_ACCESS_RIGHTS_VARIABLES_NONE'] = 'Нет доступа';
-$MESS['MAIL_ACCESS_RIGHTS_SELF_DEPARTMENT'] = 'Своего отдела';
-$MESS['MAIL_ACCESS_RIGHTS_DEPARTMENT_WITH_SUBDEPARTMENTS'] = 'Своего отдела и подотделов';
-$MESS['MAIL_ACCESS_RIGHTS_VARIABLES_ALL'] = 'Всех сотрудников';

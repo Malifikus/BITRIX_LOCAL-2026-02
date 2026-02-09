@@ -1,2 +1,0 @@
-<?php
-$MESS["TASKS_CHECKLIST_COMPONENT_JS_NEW_CHECKLIST_TITLE_2"] = "Lista de verificación ##ITEM_NUMBER#";

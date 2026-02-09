@@ -1,4 +1,0 @@
-<?php
-
-$MESS['TASKS_V2_USER_FIELDS_SLIDER_CONFIRM'] = 'Сохранить';
-$MESS['TASKS_V2_USER_FIELDS_SLIDER_CANCEL'] = 'Отмена';

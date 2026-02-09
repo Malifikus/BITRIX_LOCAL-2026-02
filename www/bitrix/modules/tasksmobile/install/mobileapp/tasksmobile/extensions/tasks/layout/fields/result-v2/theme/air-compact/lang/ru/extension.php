@@ -1,4 +1,0 @@
-<?php
-
-$MESS['TASKS_FIELDS_RESULT_V2_AIR_COMPACT_TITLE'] = 'Результаты работы';
-$MESS['TASKS_FIELDS_RESULT_V2_AIR_COMPACT_TITLE_MULTI'] = 'Результаты работы: #COUNT#';

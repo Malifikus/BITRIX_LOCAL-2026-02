@@ -1,3 +1,0 @@
-<?php
-$MESS["INTRANET_USER_LIST_GENDER_F"] = "femme";
-$MESS["INTRANET_USER_LIST_GENDER_M"] = "homme";

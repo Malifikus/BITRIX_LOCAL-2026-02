@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_V2_TAGS_TITLE"] = "Tags:";
-$MESS["TASKS_V2_TAGS_TITLE_CHIP"] = "Tags";

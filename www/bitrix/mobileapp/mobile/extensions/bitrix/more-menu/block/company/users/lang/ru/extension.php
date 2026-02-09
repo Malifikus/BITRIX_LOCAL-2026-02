@@ -1,3 +1,0 @@
-<?php
-$MESS['MORE_MENU_COMPANY_USERS_TITLE'] = 'Сотрудники';
-$MESS['MORE_MENU_COMPANY_USERS_INVITE'] = 'Пригласить';

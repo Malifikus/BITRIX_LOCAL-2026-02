@@ -1,3 +1,0 @@
-<?
-$MESS["COPY_TEMPLATE_CHECKLIST_SYSTEM_ERROR"] = "Error de sistema";
-?>

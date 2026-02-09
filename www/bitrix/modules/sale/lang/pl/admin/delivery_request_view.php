@@ -1,3 +1,0 @@
-<?
-$MESS["SALE_DELIVERY_REQ_VIEW_F_ID"] = "ID";
-?>

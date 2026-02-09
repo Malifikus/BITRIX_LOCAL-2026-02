@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_REST_EXTERNAL_CHANNEL_CONNECTOR_DEFAULT_NAME"] = "Canale esterno (Api Rest)";
-?>

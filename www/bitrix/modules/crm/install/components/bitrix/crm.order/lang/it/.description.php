@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_ORDER_COMPLEX_DESCRIPTION"] = "Ordini";
-$MESS["CRM_ORDER_COMPLEX_NAME"] = "Ordini";
-$MESS["CRM_ORDER_NAME"] = "Ordini";
-?>

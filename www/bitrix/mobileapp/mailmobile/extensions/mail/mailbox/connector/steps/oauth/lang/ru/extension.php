@@ -1,3 +1,0 @@
-<?php
-$MESS['MAILBOX_CONNECTOR_OAUTH_TITLE_1'] = 'Авторизация';
-$MESS['MAILBOX_CONNECTOR_OAUTH_HEADER_TITLE'] = 'Подключение почты';

@@ -1,3 +1,0 @@
-<?
-$MESS["DASHBOARD_EMPTY_BOARD_CONTENT"] = "Nessun dato";
-?>

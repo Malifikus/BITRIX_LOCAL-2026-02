@@ -1,4 +1,0 @@
-<?php
-$MESS["BLOCK_USER_ENTITY_CHAT_ID_FIELD"] = "ID du chat";
-$MESS["BLOCK_USER_ENTITY_ID_FIELD"] = "ID unique";
-$MESS["BLOCK_USER_ENTITY_USER_ID_FIELD"] = "ID de l'utilisateur";

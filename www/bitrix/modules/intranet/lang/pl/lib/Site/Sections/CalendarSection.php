@@ -1,4 +1,0 @@
-<?php
-$MESS["INTRANET_CALENDAR_SECTION_COMPANY_CALENDAR"] = "Kalendarz firmowy";
-$MESS["INTRANET_CALENDAR_SECTION_MY_CALENDAR"] = "Mój kalendarz";
-$MESS["INTRANET_CALENDAR_SECTION_ROOMS"] = "Dostępność sali konferencyjnej";

@@ -1,3 +1,0 @@
-<?php
-$MESS["BIZPROCDESIGNER_CONTROLLER_DIAGRAM_ERROR_TEMPLATE_TYPE"] = "This workflow template type is not supported.";
-$MESS["BIZPROCDESIGNER_CONTROLLER_DIAGRAM_TEMPLATE_DEFAULT_TITLE"] = "Workflow template";

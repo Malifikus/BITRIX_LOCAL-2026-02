@@ -1,2 +1,0 @@
-<?php
-$MESS["HUMANRESOURCES_NODE_MEMBER_SERVICE_CANT_REMOVE_USER_FROM_LAST_DEPARTMENT"] = "Nie można usunąć pracownika z jego jedynego działu.";

@@ -1,3 +1,0 @@
-<?
-$MESS["PERFMON_CACHE_ID"] = "ID";
-?>

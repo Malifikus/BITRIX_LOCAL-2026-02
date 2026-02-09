@@ -1,6 +1,0 @@
-<?php
-$MESS["INTRANET_USTAT_ONLINE_EMPTY"] = "Brak danych";
-$MESS["INTRANET_USTAT_ONLINE_FINISHED_DAY"] = "Wyrejestrowani";
-$MESS["INTRANET_USTAT_ONLINE_HINT"] = "Pracownicy online";
-$MESS["INTRANET_USTAT_ONLINE_STARTED_DAY"] = "Zarejestrowani";
-$MESS["INTRANET_USTAT_ONLINE_USERS"] = "Pracownicy online";

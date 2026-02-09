@@ -1,3 +1,0 @@
-<?php
-
-$MESS['BIZPROC_ENTITY_SELECTOR_DOCUMENT_TYPES_TAB_TITLE'] = 'Тип документа';

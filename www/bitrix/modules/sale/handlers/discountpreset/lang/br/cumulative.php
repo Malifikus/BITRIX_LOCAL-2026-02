@@ -1,2 +1,0 @@
-<?php
-$MESS["SALE_HANDLERS_DISCOUNTPRESET_CUMULATIVE_NAME"] = "Descontos progressivos";

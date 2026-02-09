@@ -1,3 +1,0 @@
-<?php
-$MESS['REST_V3_CONTROLLER_LISTORMACTIONTRAIT_ACTION_TITLE'] = 'Метод получения списка';
-$MESS['REST_V3_CONTROLLER_LISTORMACTIONTRAIT_ACTION_DESCRIPTION'] = 'Получить список записей по выбору';

@@ -1,3 +1,0 @@
-<?php
-$MESS["CHECKOUT_VIEW_EMPTY_CART_DESCRIPTION"] = "Document and icon";
-$MESS["CHECKOUT_VIEW_EMPTY_CART_START"] = "Start shopping";

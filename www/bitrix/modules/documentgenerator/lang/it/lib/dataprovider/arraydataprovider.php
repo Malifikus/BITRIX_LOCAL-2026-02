@@ -1,4 +1,0 @@
-<?
-$MESS["DOCGEN_DATAPROVIDER_ARRAY_INDEX_TITLE"] = "Elemento corrente";
-$MESS["DOCGEN_DATAPROVIDER_ARRAY_NUMBER_TITLE"] = "Conteggio elementi";
-?>

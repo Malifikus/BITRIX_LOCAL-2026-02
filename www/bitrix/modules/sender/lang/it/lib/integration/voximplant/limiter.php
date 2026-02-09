@@ -1,4 +1,0 @@
-<?
-$MESS["SENDER_INTEGRATION_CALL_LIMITER_UNIT_NAME"] = "chiamate simultanee";
-$MESS["SENDER_INTEGRATION_WEBHOOK_MESSAGE_CONFIG_URI"] = "Indirizzo server";
-?>

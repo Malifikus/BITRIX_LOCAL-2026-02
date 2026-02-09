@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_DOCGEN_VALUE_TAX_RATE_TAX_FREE"] = "Hors taxe";
-$MESS["CRM_DOCGEN_VALUE_TAX_RATE_TITLE"] = "Taux de TVA";

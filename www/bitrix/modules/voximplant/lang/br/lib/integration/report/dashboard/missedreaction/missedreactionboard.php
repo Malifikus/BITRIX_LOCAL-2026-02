@@ -1,3 +1,0 @@
-<?php
-$MESS["TELEPHONY_REPORT_MISSED_REACTION_CALLS"] = "Chamadas perdidas";
-$MESS["TELEPHONY_REPORT_MISSED_REACTION_TIME"] = "Tempo médio de resposta";

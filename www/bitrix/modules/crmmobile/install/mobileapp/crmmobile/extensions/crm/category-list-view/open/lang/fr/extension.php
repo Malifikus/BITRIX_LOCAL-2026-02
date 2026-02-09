@@ -1,5 +1,0 @@
-<?php
-$MESS["M_CRM_CATEGORY_LIST_ACTION_CHANGE_CATEGORY_ALERT_OK"] = "Modifier le pipeline";
-$MESS["M_CRM_CATEGORY_LIST_ACTION_CHANGE_CATEGORY_ALERT_TEXT"] = "Voulez-vous vraiment modifier le pipeline ?";
-$MESS["M_CRM_CATEGORY_LIST_ACTION_CHANGE_CATEGORY_ALERT_TITLE"] = "Modifier le pipeline";
-$MESS["M_CRM_CATEGORY_LIST_ACTION_CHANGE_CATEGORY_TITLE"] = "Sélectionner un pipeline";

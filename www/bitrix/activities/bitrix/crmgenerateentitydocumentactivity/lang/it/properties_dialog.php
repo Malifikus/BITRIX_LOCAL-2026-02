@@ -1,5 +1,0 @@
-<?
-$MESS["BPGEDA_PROP_DIALOG_ADD"] = "Aggiungi";
-$MESS["BPGEDA_PROP_DIALOG_ADD_FIELD"] = "Aggiungi campo";
-$MESS["BPGEDA_PROP_DIALOG_TEMPLATE_FIELDS"] = "Campi documento";
-?>

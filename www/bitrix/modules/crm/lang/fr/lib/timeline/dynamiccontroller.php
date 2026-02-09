@@ -1,2 +1,0 @@
-<?php
-$MESS["CRM_ENTITY_SUMMARY_ORDER"] = "Commande ##ORDER_ID# du #ORDER_DATE#";

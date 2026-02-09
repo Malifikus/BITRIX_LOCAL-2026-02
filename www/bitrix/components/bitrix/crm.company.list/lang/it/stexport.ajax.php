@@ -1,6 +1,0 @@
-<?
-$MESS["CRM_COMPANY_LIST_STEXPORT_COMPLETED_SUMMARY1"] = "Il file di esportazione dell'azienda è stato creato.";
-$MESS["CRM_COMPANY_LIST_STEXPORT_COMPLETED_SUMMARY2"] = "Aziende elaborate: #PROCESSED_ITEMS#.";
-$MESS["CRM_COMPANY_LIST_STEXPORT_DOWNLOAD"] = "Scarica file di esportazione.";
-$MESS["CRM_COMPANY_LIST_STEXPORT_PROGRESS_SUMMARY"] = "Aziende elaborate: #PROCESSED_ITEMS# di #TOTAL_ITEMS#.";
-?>

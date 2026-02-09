@@ -1,6 +1,0 @@
-<?php
-$MESS["CRM_SEGMENT_ITEM_SYSTEM_DEAL_EVERY_HALF_YEAR"] = "Ce script est axé sur les clients qui effectuent un achat tous les six mois. Le système les définit en fonction des transactions conclues avec succès dans la même période au cours des dernières années.";
-$MESS["CRM_SEGMENT_ITEM_SYSTEM_DEAL_EVERY_MONTH"] = "Ce script est axé sur les clients qui effectuent un achat environ une fois par mois. Le système les définit en fonction des transactions conclues avec succès au cours des 3 derniers mois, à l'exclusion du mois en cours.";
-$MESS["CRM_SEGMENT_ITEM_SYSTEM_DEAL_EVERY_YEAR"] = "Ce script est axé sur les clients qui effectuent un achat une fois par an. Le système les définit en fonction des transactions réussies réalisées au cours des deux dernières années.";
-$MESS["CRM_SEGMENT_ITEM_SYSTEM_DEAL_LOST_MORE_12_MONTH"] = "Ce script est axé sur les clients ayant au moins deux transactions enregistrées, réussies ou non, depuis qu'ils ont commencé à acheter des articles. Il n'y a pas de transactions actives avec ces clients.";
-$MESS["CRM_SEGMENT_ITEM_SYSTEM_LAST_ACTIVITY_LESS_12_MONTH"] = "Ce script est axé sur les clients qui ont consulté des produits ou services au cours des 12 derniers mois, mais qui ne se sont jamais engagés à acheter.";

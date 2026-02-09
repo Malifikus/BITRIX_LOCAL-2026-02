@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKSMOBILE_TREE_CHECKLIST_ITEM_DEFAULT_TITLE"] = "Texte d'élément";
-$MESS["TASKSMOBILE_TREE_CHECKLIST_PARENT_DEFAULT_TEXT"] = "Liste de contrôle ##number#";

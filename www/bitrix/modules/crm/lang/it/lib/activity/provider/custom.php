@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_ACTIVITY_PVDR_CUST_ACTION_BUTTON"] = "Propria attività";
-$MESS["CRM_ACTIVITY_PVDR_CUST_ACTION_BUTTON_TITLE"] = "Crea attività personalizzata";
-$MESS["CRM_ACTIVITY_PVDR_CUST_SUBJECT_LABEL"] = "Oggetto";
-?>

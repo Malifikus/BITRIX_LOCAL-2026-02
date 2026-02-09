@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_ACTIVITY_PROVIDER_BIZPROC_COMMENT_NAME_MSGVER_1"] = "Comentário do fluxo de trabalho";
-$MESS["CRM_ACTIVITY_PROVIDER_BIZPROC_COMMENT_SUBJECT"] = "Novos comentários";

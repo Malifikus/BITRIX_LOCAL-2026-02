@@ -1,5 +1,0 @@
-<?php
-$MESS["LANDING_BLOCK_0.MENU_21_LINK"] = "Pozycja menu";
-$MESS["LANDING_BLOCK_0.MENU_21_NAME"] = "Menu bez logo";
-$MESS["LANDING_BLOCK_MENU_21--NAVBAR"] = "Menu";
-$MESS["LANDING_BLOCK_MENU_21_HAMB"] = "Menu mobilne";

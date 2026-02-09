@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_INVOICE_COMPAT_BASKET_HELPER_NO_BASKET_ID"] = "L'ID du panier manque";
-$MESS["CRM_INVOICE_COMPAT_BASKET_HELPER_NO_SITE_ID"] = "L'ID du site manque";
-?>

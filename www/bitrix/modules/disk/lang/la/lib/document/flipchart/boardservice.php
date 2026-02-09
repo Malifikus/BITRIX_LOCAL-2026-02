@@ -1,3 +1,0 @@
-<?php
-$MESS["DISK_BLANK_FILE_DATA_NEW_FILE_BOARD"] = "Nuevo tablero";
-$MESS["DISK_BLANK_FILE_DATA_TYPE_BOARD"] = "Tablero";

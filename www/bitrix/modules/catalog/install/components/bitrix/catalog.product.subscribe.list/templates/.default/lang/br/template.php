@@ -1,3 +1,0 @@
-<?
-$MESS["CPSL_CATALOG_BTN_MESSAGE_CLOSE"] = "Fechar";
-?>

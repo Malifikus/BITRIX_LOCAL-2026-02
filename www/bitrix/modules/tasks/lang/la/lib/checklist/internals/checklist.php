@@ -1,3 +1,0 @@
-<?
-$MESS["TASKS_INTERNALS_CHECKLIST_CHECKLIST_TABLE_ADD_FAILED"] = "Error al agregar el elemento";
-?>

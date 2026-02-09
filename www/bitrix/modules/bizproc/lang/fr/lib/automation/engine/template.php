@@ -1,5 +1,0 @@
-<?php
-$MESS["BIZPROC_AUTOMATION_PARALLEL_ACTIVITY"] = "Exécution simultanée";
-$MESS["BIZPROC_AUTOMATION_ROBOT_DELAY_ACTIVITY"] = "Pause de règle d'automatisation";
-$MESS["BIZPROC_AUTOMATION_TEMPLATE_NAME"] = "Modèle d'automatisation (#STATUS#)";
-$MESS["BIZPROC_AUTOMATION_TEMPLATE_SCRIPT_NAME"] = "Nouveau script";

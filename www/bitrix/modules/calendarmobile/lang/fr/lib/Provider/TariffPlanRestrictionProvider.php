@@ -1,4 +1,0 @@
-<?php
-$MESS["CALENDARMOBILE_TARIFF_PLAN_RESTRICTION_LOCATION"] = "Disponibilité de salle de réunion";
-$MESS["CALENDARMOBILE_TARIFF_PLAN_RESTRICTION_PLANNER"] = "Planificateur d'événements";
-$MESS["CALENDARMOBILE_TARIFF_PLAN_RESTRICTION_SHARING"] = "Créneaux disponibles";

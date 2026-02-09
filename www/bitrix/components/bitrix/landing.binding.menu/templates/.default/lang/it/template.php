@@ -1,7 +1,0 @@
-<?
-$MESS["LANDING_TPL_BINDING_ACTION_BIND"] = "Seleziona";
-$MESS["LANDING_TPL_BINDING_ACTION_LANDING"] = "Seleziona pagina";
-$MESS["LANDING_TPL_BINDING_TITLE_LANDING"] = "Seleziona pagina";
-$MESS["LANDING_TPL_BINDING_TITLE_SITE"] = "Seleziona sito";
-$MESS["LANDING_TPL_BINDING_TITLE_SITE_KNOWLEDGE"] = "Seleziona knowledge base";
-?>

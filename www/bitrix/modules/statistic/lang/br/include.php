@@ -1,9 +1,0 @@
-<?
-$MESS["STAT_WEEKDAY_0_S"] = "Dom";
-$MESS["STAT_WEEKDAY_1_S"] = "Seg";
-$MESS["STAT_WEEKDAY_2_S"] = "Ter";
-$MESS["STAT_WEEKDAY_3_S"] = "Qua";
-$MESS["STAT_WEEKDAY_4_S"] = "Qui";
-$MESS["STAT_WEEKDAY_5_S"] = "Sex";
-$MESS["STAT_WEEKDAY_6_S"] = "Sáb";
-?>

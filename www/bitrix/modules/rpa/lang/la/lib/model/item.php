@@ -1,3 +1,0 @@
-<?
-$MESS["RPA_MODEL_ITEM_NEW_NAME"] = "Nuevo #TYPE_NAME#";
-?>

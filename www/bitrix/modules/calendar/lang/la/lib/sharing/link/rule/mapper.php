@@ -1,3 +1,0 @@
-<?php
-$MESS["CALENDAR_SHARING_WORKDAYS"] = "Días hábiles";
-$MESS["CALENDAR_SHARING_WORKDAYS_MSGVER_1"] = "Días hábiles";

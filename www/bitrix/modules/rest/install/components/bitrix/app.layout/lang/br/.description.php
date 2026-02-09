@@ -1,3 +1,0 @@
-<?php
-$MESS["RMP_PATH_B24MP_DESCR_2_MSGVER_1"] = "Bitrix24 Market";
-$MESS["RMP_PATH_B24MP_DESCR_2_MSGVER_2"] = "Bitrix24 Market";

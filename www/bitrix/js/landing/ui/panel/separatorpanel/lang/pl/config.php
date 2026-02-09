@@ -1,5 +1,0 @@
-<?php
-$MESS["LANDING_SEPARATOR_HEADER"] = "Nagłówek tekstowy";
-$MESS["LANDING_SEPARATOR_PAGE"] = "Strona formularza";
-$MESS["LANDING_SEPARATOR_PANEL_TITLE"] = "Seperatory";
-$MESS["LANDING_SEPARATOR_SOLID_LINE"] = "Linia";

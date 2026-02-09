@@ -1,3 +1,0 @@
-<?php
-$MESS["SIGN_GRID_COUNTER_SIGNED"] = "Signed";
-$MESS["SIGN_GRID_COUNTER_UNSIGNED"] = "Not signed";

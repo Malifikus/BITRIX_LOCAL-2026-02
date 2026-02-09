@@ -1,5 +1,0 @@
-<?
-$MESS["INTR_ISBN_TPL_FILTER_DEPARTMENT"] = "Reparto";
-$MESS["ISL_ID"] = "ID";
-$MESS["ISL_PERSONAL_ICQ"] = "ICQ";
-?>

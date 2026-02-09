@@ -1,2 +1,0 @@
-<?php
-$MESS["CONTROLLER_GROUP_MAP_DELETE"] = "Usuń";

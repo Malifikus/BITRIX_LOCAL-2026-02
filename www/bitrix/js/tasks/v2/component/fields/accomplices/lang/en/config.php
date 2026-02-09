@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_V2_ACCOMPLICES_TITLE"] = "Participants:";
-$MESS["TASKS_V2_ACCOMPLICES_TITLE_CHIP"] = "Participants";

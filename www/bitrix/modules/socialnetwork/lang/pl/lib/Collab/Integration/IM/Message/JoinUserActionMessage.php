@@ -1,4 +1,0 @@
-<?php
-$MESS["SOCIALNETWORK_COLLAB_CHAT_USER_JOIN_F"] = "#SENDER_NAME# dołączyła do collaba.";
-$MESS["SOCIALNETWORK_COLLAB_CHAT_USER_JOIN_M"] = "#SENDER_NAME# dołączył do collaba.";
-$MESS["SOCIALNETWORK_COLLAB_CHAT_USER_JOIN_N"] = "#SENDER_NAME# dołączył do collaba.";

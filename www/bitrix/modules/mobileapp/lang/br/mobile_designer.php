@@ -1,5 +1,0 @@
-<?
-$MESS["MOBILEAPP_CLOSE"] = "Fechar";
-$MESS["MOBILEAPP_CONNECT_BUTTON_CLOSE"] = "Fechar";
-$MESS["MOBILEAPP_SAVE"] = "Salvar";
-?>

@@ -1,9 +1,0 @@
-<?php
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_SEND_FEEDBACK"] = "Commentaire";
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_SUCCESS_OPEN_BTN"] = "Afficher les entrées suggérées";
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_SUCCESS_RESULT"] = "CoPilot a rempli les champs";
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_SUCCESS_RESULT_DEAL"] = "CoPilot a rempli les champs de la transaction";
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_SUCCESS_RESULT_LEAD"] = "CoPilot a rempli les champs du prospect";
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_TAG_SUCCESS"] = "Champs remplis";
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_TAG_WARNING"] = "Action requise";
-$MESS["CRM_TIMELINE_ACTIVITY_AI_FILLING_WARNING_RESULT"] = "CoPilot attend votre autorisation pour remplacer les données du champ";

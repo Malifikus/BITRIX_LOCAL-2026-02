@@ -1,6 +1,0 @@
-<?
-$MESS["PUBLIC_EDIT_CLOSE"] = "Chiudi";
-$MESS["PUBLIC_EDIT_CLOSE_TITLE"] = "Chiudi";
-$MESS["PUBLIC_EDIT_SAVE"] = "Salva";
-$MESS["PUBLIC_EDIT_SAVE_TITLE"] = "Salva";
-?>

@@ -1,7 +1,0 @@
-<?php
-$MESS["TASKS_V2_TASK_LIST_DEADLINE_AUTO"] = "Impostazione automatica";
-$MESS["TASKS_V2_TASK_LIST_DEADLINE_EMPTY"] = "Nessuna scadenza";
-$MESS["TASKS_V2_TASK_LIST_DEADLINE_EXPIRED"] = "#DURATION# di ritardo";
-$MESS["TASKS_V2_TASK_LIST_MORE_PLURAL_0"] = "#COUNT# altro incarico";
-$MESS["TASKS_V2_TASK_LIST_MORE_PLURAL_1"] = "Altri #COUNT# incarichi";
-$MESS["TASKS_V2_TASK_LIST_MORE_PLURAL_2"] = "Altri #COUNT# incarichi";

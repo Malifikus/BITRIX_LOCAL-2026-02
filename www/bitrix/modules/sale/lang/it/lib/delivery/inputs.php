@@ -1,4 +1,0 @@
-<?
-$MESS["SALE_DELIVERY_INP_ADD"] = "Aggiungi";
-$MESS["SALE_DELIVERY_INP_DELETE"] = "Elimina";
-?>

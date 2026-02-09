@@ -1,3 +1,0 @@
-<?
-$MESS["IBLOCK_PROPERTY_ENTITY_ID_FIELD"] = "ID";
-?>

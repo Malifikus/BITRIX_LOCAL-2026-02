@@ -1,3 +1,0 @@
-<?php
-$MESS["LANDING_DEMO_STORE_CHATS_DETAIL-BACK"] = "Wstecz";
-$MESS["LANDING_DEMO_STORE_CHATS_DETAIL-NAME"] = "Strona szczegółów produktu";

@@ -1,3 +1,0 @@
-<?php
-$MESS["SENDER_INTEGRATION_MAIL_CONSENT_SUBJECT"] = "#SITE_NAME#: Confirmar la suscripción";
-$MESS["SENDER_INTEGRATION_MAIL_TRANSPORT_NAME"] = "Remitente de email";

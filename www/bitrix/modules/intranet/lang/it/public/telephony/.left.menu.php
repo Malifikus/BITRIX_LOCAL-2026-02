@@ -1,5 +1,0 @@
-<?php
-$MESS["SERVICES_MENU_TELEPHONY_ANALYTICS"] = "Statistiche chiamata";
-$MESS["SERVICES_MENU_TELEPHONY_CONNECT"] = "Connessione";
-$MESS["SERVICES_MENU_TELEPHONY_DETAIL"] = "Dettagli chiamata";
-$MESS["SERVICES_MENU_TELEPHONY_MY_LINES"] = "Miei numeri";

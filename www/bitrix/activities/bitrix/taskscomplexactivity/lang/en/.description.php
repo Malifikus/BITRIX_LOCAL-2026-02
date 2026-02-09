@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_COMPLEX_ACTIVITY_DESCRIPTION"] = "Task handling node.";
-$MESS["TASKS_COMPLEX_ACTIVITY_NAME"] = "Task";

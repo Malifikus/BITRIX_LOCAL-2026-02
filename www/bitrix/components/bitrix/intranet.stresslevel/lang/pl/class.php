@@ -1,2 +1,0 @@
-<?php
-$MESS["INTRANET_STRESSLEVEL_NO_PERMISSIONS"] = "Odmowa dostępu.";

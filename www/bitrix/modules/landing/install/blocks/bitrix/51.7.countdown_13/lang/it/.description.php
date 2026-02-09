@@ -1,6 +1,0 @@
-<?php
-$MESS["LANDING_BLOCK_51_7_COUNTDOWN_13--DATE"] = "Data di fine";
-$MESS["LANDING_BLOCK_51_7_COUNTDOWN_13--NAME"] = "Timer in una cornice arrotondata su sfondo chiaro";
-$MESS["LANDING_BLOCK_51_7_COUNTDOWN_13--NUMBER_NUMBER"] = "Numero";
-$MESS["LANDING_BLOCK_51_7_COUNTDOWN_13--NUMBER_TEXT"] = "Testo";
-$MESS["LANDING_BLOCK_51_7_COUNTDOWN_13--TITLE"] = "Titolo";

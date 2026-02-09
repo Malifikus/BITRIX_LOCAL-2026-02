@@ -1,5 +1,0 @@
-<?
-$MESS["CRM_ORDER_SHIPMENT_DETAIL_HISTORY_STUB"] = "Stai creando una spedizione...";
-$MESS["CRM_ORDER_SHIPMENT_TRACKING_STATUS_UPDATE"] = "Aggiorna";
-$MESS["CRM_ORDER_TITLE"] = "Ordine ##ID#";
-?>

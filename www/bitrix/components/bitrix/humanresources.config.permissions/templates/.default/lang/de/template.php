@@ -1,4 +1,0 @@
-<?php
-$MESS["HUMANRESOURCES_CONFIG_PERMISSIONS_CANCEL_BUTTON_TEXT"] = "Abbrechen";
-$MESS["HUMANRESOURCES_CONFIG_PERMISSIONS_ERROR"] = "Zugriffsrechte konnten nicht geöffnet werden.";
-$MESS["HUMANRESOURCES_CONFIG_PERMISSIONS_SAVE_MESSAGEBOX_TEXT"] = "Möchten Sie die Änderungen speichern?";

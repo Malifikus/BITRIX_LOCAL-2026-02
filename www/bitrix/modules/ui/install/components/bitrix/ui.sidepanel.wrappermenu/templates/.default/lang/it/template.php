@@ -1,5 +1,0 @@
-<?
-$MESS["UI_SIDEPANEL_MENU_ADD_ITEM"] = "aggiungi una pagina";
-$MESS["UI_SIDEPANEL_MENU_BUTTON_CLOSE"] = "Comprimi";
-$MESS["UI_SIDEPANEL_MENU_BUTTON_OPEN"] = "Espandi";
-?>

@@ -1,5 +1,0 @@
-<?php
-
-$MESS['BIZPROC_STORAGE_ITEM_LIST_CONFIRM_MESSAGE'] = 'Удалить это хранилище?';
-$MESS['BIZPROC_STORAGE_ITEM_DELETE_MESSAGE'] = 'Хранилище удалено';
-$MESS['BIZPROC_STORAGE_ITEM_CONFIRM_MESSAGE_OK'] = 'Да, удалить';

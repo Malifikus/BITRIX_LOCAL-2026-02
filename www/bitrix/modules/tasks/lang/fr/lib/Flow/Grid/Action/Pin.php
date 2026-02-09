@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_FLOW_LIST_ACTION_PIN"] = "Épingler";
-$MESS["TASKS_FLOW_LIST_ACTION_UNPIN"] = "Détacher";

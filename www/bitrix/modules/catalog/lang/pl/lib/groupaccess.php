@@ -1,2 +1,0 @@
-<?php
-$MESS["GROUP_ACCESS_ENTITY_CATALOG_GROUP_ID_FIELD"] = "ID typu ceny";

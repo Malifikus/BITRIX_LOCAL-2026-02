@@ -1,3 +1,0 @@
-<?php
-$MESS["SONET_COUNTER_TYPE_LIVEFEED"] = "Aktualności";
-$MESS["SONET_COUNTER_TYPE_LIVEFEED2"] = "Aktualności";

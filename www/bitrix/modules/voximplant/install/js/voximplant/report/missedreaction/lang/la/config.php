@@ -1,4 +1,0 @@
-<?php
-$MESS["TELEPHONY_REPORT_MISSED_REACTION_AVG_RESPONSE_TIME"] = "Tiempo de respuesta promedio";
-$MESS["TELEPHONY_REPORT_MISSED_REACTION_MISSED"] = "Llamadas perdidas";
-$MESS["TELEPHONY_REPORT_MISSED_REACTION_UNANSWERED"] = "Sin respuesta durante 24 horas";

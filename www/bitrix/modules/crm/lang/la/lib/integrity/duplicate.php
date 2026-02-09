@@ -1,4 +1,0 @@
-<?php
-$MESS["CRM_DUP_ENTITY_COUNT_PLURAL_0"] = "igual";
-$MESS["CRM_DUP_ENTITY_COUNT_PLURAL_1"] = "iguales";
-$MESS["CRM_DUP_ENTITY_COUNT_PLURAL_2"] = "iguales";

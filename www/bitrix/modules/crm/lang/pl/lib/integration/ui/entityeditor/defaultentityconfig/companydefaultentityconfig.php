@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_COMPANY_SECTION_ADDITIONAL"] = "Więcej";
-$MESS["CRM_COMPANY_SECTION_MAIN"] = "O firmie";

@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_TIMELINE_BIZPROC_EXEC_TIME"] = "Imediato";
-$MESS["CRM_TIMELINE_BIZPROC_EXEC_TITLE"] = "Horário de início";

@@ -1,3 +1,0 @@
-<?php
-$MESS["SALE_ORDER_PAYMENT_TOGGLE_DOWN"] = "Expandir";
-$MESS["SALE_ORDER_PAYMENT_TOGGLE_UP"] = "Recolher";

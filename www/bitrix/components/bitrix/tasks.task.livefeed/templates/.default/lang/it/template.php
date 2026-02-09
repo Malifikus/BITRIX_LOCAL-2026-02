@@ -1,7 +1,0 @@
-<?php
-$MESS["TASKS_SONET_LOG_ASSIGNEE"] = "Responsabile";
-$MESS["TASKS_SONET_LOG_DESCRIPTION"] = "descrizione";
-$MESS["TASKS_SONET_LOG_LABEL_TITLE"] = "Incarico";
-$MESS["TASKS_SONET_LOG_STATUS"] = "Stato";
-$MESS["TASKS_SONET_LOG_STATUS_CHANGED"] = "Stato incarico modificato";
-$MESS["TASKS_SONET_LOG_TAGS"] = "Tag:";

@@ -1,3 +1,0 @@
-<?php
-$MESS["SEC_SCANNER_ADDITIONAL_INFO_BUTTON_ON"] = "Nascondi";
-$MESS["SEC_SCANNER_TIP_BUTTON_ON"] = "Nascondi";

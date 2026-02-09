@@ -1,3 +1,0 @@
-<?php
-$MESS["DEPARTMENT_INFO_BOX_SELECT_BUTTON_TEXT"] = "Wybierz ten dział";
-$MESS["DEPARTMENT_INFO_BOX_TITLE"] = "O dziale";

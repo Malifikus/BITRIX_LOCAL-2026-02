@@ -1,4 +1,0 @@
-<?php
-$MESS["CRM_SIP_HELPER_REPEATED_APPROACH_DEAL"] = "ponowne zapytanie";
-$MESS["CRM_SIP_HELPER_REPEATED_REPEATED_DEAL"] = "powtarzalny deal";
-$MESS["CRM_SIP_HELPER_REPEATED_REPEATED_LEAD"] = "powtarzalny lead";

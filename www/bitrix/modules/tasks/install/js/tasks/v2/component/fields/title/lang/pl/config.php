@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_V2_TEMPLATE_TITLE_PLACEHOLDER"] = "Nazwa szablonu";
-$MESS["TASKS_V2_TITLE_PLACEHOLDER"] = "Nazwa zadania";

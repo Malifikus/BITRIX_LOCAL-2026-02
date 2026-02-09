@@ -1,5 +1,0 @@
-<?
-$MESS["UI_SIDEPANEL_MENU_ADD_ITEM"] = "dodaj stronę";
-$MESS["UI_SIDEPANEL_MENU_BUTTON_CLOSE"] = "Zwiń";
-$MESS["UI_SIDEPANEL_MENU_BUTTON_OPEN"] = "Rozwiń";
-?>

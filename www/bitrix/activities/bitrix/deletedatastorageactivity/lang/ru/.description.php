@@ -1,5 +1,0 @@
-<?php
-
-$MESS['BIZPROC_DELETE_DATA_STORAGE_CATEGORY'] = 'Хранилище';
-$MESS['BIZPROC_DELETE_DATA_ACTIVITY_NAME'] = 'Удаление данных';
-$MESS['BIZPROC_DELETE_DATA_ACTIVITY_DESCRIPTION'] = 'Удаляет данные из хранилища';

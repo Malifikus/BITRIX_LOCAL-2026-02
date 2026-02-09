@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_TIMELINE_MENU_FASTEN"] = "Aggiungi";
-$MESS["CRM_TIMELINE_MENU_UNFASTEN"] = "Rimuovi";

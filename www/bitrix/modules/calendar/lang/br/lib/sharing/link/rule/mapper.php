@@ -1,3 +1,0 @@
-<?php
-$MESS["CALENDAR_SHARING_WORKDAYS"] = "Dias úteis";
-$MESS["CALENDAR_SHARING_WORKDAYS_MSGVER_1"] = "Dias úteis";

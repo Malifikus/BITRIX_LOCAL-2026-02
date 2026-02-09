@@ -1,3 +1,0 @@
-<?php
-$MESS["INTRANET_FIELD_EMPLOYEE_CHANGE"] = "Cambiar";
-$MESS["INTRANET_PROPERTY_TITLE_MSGVER_1"] = "Vincular al empleado";

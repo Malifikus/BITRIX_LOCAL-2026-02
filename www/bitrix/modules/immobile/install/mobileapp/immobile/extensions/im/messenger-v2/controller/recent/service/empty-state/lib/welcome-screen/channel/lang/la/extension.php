@@ -1,3 +1,0 @@
-<?php
-$MESS["IMMOBILE_RECENT_SERVICE_EMPTY_STATE_CHANNEL_TEXT"] = "No hay canales.\nPuede crear su canal ahora.";
-$MESS["IMMOBILE_RECENT_SERVICE_EMPTY_STATE_CHANNEL_TITLE"] = "Canales";

@@ -1,3 +1,0 @@
-<?php
-$MESS["BPMOBILE_WORKFLOW_SIMPLE_LIST_STATUS"] = "Stato";
-$MESS["BPMOBILE_WORKFLOW_SIMPLE_LIST_TASK_TOUCHED"] = "L'assegnazione #TASK_NAME# è stata completata";

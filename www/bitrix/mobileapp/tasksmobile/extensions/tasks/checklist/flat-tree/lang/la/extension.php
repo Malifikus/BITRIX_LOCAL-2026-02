@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKSMOBILE_TREE_CHECKLIST_ITEM_DEFAULT_TITLE"] = "Texto del elemento";
-$MESS["TASKSMOBILE_TREE_CHECKLIST_PARENT_DEFAULT_TEXT"] = "Lista de verificación ##number#";

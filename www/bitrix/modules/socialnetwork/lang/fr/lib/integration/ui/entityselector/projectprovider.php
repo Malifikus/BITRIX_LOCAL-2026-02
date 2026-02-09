@@ -1,6 +1,0 @@
-<?php
-$MESS["SOCNET_ENTITY_SELECTOR_COLLAB_TAB_TITLE"] = "Collabs";
-$MESS["SOCNET_ENTITY_SELECTOR_PROJECTS_METAUSER_ALL"] = "Tous les membres du groupe de travail";
-$MESS["SOCNET_ENTITY_SELECTOR_PROJECTS_METAUSER_MODERATOR"] = "Modérateur du groupe de travail";
-$MESS["SOCNET_ENTITY_SELECTOR_PROJECTS_METAUSER_OWNER"] = "Propriétaire du groupe de travail";
-$MESS["SOCNET_ENTITY_SELECTOR_PROJECTS_TAB_TITLE"] = "Groupe de travail";

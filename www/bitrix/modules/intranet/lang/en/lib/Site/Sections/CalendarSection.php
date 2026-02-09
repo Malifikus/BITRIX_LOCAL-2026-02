@@ -1,4 +1,0 @@
-<?php
-$MESS["INTRANET_CALENDAR_SECTION_COMPANY_CALENDAR"] = "Company calendar";
-$MESS["INTRANET_CALENDAR_SECTION_MY_CALENDAR"] = "My calendar";
-$MESS["INTRANET_CALENDAR_SECTION_ROOMS"] = "Meeting room availability";

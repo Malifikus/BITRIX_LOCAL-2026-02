@@ -1,3 +1,0 @@
-<?
-$MESS["WSL_CANCELSTEP_BUTTONTITLE"] = "Chiudi";
-?>

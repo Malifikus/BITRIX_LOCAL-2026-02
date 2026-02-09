@@ -1,3 +1,0 @@
-<?
-$MESS["CRM_AUTOMATION_CONVERTER_DEFAULT_NAME"] = "Sem nome";
-?>

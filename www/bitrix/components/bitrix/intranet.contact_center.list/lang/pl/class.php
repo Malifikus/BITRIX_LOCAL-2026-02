@@ -1,4 +1,0 @@
-<?php
-$MESS["CONTACT_CENTER_CRM_FORMS_CREATE"] = "Utwórz formularz";
-$MESS["CONTACT_CENTER_CRM_FORMS_HELP"] = "Jak to działa?";
-$MESS["CONTACT_CENTER_CRM_FORMS_VIEW_ALL"] = "Formularze";

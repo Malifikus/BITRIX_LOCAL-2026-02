@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_TIMELINE_LOG_CALL_INCOMING_CLIENT"] = "Klient";
-$MESS["CRM_TIMELINE_LOG_CALL_INCOMING_TITLE"] = "Połączenie przychodzące";

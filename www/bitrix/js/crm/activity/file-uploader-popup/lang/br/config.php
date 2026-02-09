@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_FILE_UPLOADER_POPUP_CANCEL"] = "Cancelar (Esc)";
-$MESS["CRM_FILE_UPLOADER_POPUP_TITLE_2"] = "Arquivos";

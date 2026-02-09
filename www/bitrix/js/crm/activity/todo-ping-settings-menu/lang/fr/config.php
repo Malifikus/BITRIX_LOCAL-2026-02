@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_ACTIVITY_TODO_PING_SETTINGS_MENU_ITEM"] = "Rappel d'activité";
-$MESS["CRM_ACTIVITY_TODO_PING_SETTINGS_MENU_ITEM_TOOLTIP"] = "Laisser au moins un rappel";

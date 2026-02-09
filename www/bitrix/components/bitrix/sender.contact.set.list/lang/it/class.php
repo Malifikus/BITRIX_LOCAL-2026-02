@@ -1,5 +1,0 @@
-<?
-$MESS["SENDER_CONTACT_SET_LIST_TITLE"] = "Elenchi destinatari statici";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_CODE"] = "Codice simbolico";
-$MESS["SENDER_CONTACT_SET_LIST_UI_COLUMN_NAME"] = "Nome";
-?>

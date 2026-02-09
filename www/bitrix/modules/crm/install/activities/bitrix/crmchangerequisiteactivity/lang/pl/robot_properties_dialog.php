@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_CRA_RBP_ADD_CONDITION"] = "Dodaj warunek";
-$MESS["CRM_CRA_RBP_DELETE_CONDITION"] = "Usuń";

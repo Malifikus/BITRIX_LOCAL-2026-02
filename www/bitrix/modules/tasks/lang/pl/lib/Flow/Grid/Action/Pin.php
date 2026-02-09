@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_FLOW_LIST_ACTION_PIN"] = "Przypnij";
-$MESS["TASKS_FLOW_LIST_ACTION_UNPIN"] = "Odepnij";

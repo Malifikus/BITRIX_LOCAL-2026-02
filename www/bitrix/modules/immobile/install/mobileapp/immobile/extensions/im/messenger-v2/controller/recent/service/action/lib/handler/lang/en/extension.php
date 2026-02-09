@@ -1,3 +1,0 @@
-<?php
-$MESS["IMMOBILE_MESSENGER_CONTROLLER_RECENT_SERVICE_ACTION_INVITE_RESEND_DONE"] = "Invitation has been sent successfully.";
-$MESS["IMMOBILE_MESSENGER_CONTROLLER_RECENT_SERVICE_ACTION_PIN_ERROR_MAX_PINNED"] = "You can pin up to 45 chats, channels or collabs.";

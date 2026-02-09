@@ -1,4 +1,0 @@
-<?php
-$MESS["SPL_TEMPLETE_PAYMENT_TITLE"] = "Pagamentos do negócio";
-$MESS["SPL_TEMPLETE_SALESCENTER_PAYMENT_SENT_NOTIFICATION"] = "O pagamento ##PAYMENT_ID# foi enviado";
-$MESS["SPL_TEMPLETE_SALESCENTER_SEND_PAYMENT"] = "Enviar para o bate-papo";

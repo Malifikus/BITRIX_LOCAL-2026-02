@@ -1,5 +1,0 @@
-.crm-mini-card__field {
-	display: flex;
-	flex-direction: column;
-	gap: var(--ui-size-2xs);
-}

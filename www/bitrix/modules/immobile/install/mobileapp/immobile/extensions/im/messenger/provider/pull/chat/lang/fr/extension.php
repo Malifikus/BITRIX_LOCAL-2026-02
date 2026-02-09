@@ -1,3 +1,0 @@
-<?php
-$MESS["IMMOBILE_PULL_HANDLER_MESSAGE_DELETED"] = "Ce message a été supprimé.";
-$MESS["IMMOBILE_PULL_HANDLER_NOTIFICATION_TITLE"] = "Notifications";

@@ -1,2 +1,0 @@
-<?php
-$MESS["DISK_PROMO_BOOST_BUTTON_TEXT"] = "БУСТТАР";

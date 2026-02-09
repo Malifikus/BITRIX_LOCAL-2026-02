@@ -1,3 +1,0 @@
-<?php
-$MESS["MENU_TASKS_SECTION_FLOW"] = "Flux";
-$MESS["MENU_TASKS_SECTION_PROJECTS"] = "Projets";

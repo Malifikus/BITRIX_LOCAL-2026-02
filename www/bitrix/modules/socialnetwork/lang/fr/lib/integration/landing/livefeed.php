@@ -1,2 +1,0 @@
-<?php
-$MESS["SONET_LANDING_DYNAMIC_BLOCK_LIVEFEED_TITLE2"] = "Actualités";

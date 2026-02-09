@@ -1,2 +1,0 @@
-<?php
-$MESS["CRM_ORDER_TRADING_PLATFORM_WEB_FORM"] = "Formulario del CRM (#WEB_FORM#)";

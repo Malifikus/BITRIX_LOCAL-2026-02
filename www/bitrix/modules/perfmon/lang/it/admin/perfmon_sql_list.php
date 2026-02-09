@@ -1,3 +1,0 @@
-<?php
-$MESS["PERFMON_SQL_ID"] = "ID";
-$MESS["PERFMON_SQL_LINE_NUMBER"] = "Stringa";

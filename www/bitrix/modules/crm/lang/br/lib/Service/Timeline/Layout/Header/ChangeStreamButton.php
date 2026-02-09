@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_TIMELINE_MENU_FASTEN"] = "Fixar";
-$MESS["CRM_TIMELINE_MENU_UNFASTEN"] = "Desafixar";

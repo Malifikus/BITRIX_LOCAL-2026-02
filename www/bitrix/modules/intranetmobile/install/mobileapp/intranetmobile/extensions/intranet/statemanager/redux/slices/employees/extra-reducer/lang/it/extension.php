@@ -1,5 +1,0 @@
-<?php
-$MESS["MOBILE_USERS_EXTRA_REDUCERS_CONFIRM_INVITATION_REJECTED"] = "Impossibile confermare l'invito";
-$MESS["MOBILE_USERS_EXTRA_REDUCERS_USER_DELETE_REJECTED"] = "Impossibile eliminare l'utente";
-$MESS["MOBILE_USERS_USER_ACTIONS_DELETE_INVITATION_REJECTED"] = "Rimuovi utente";
-$MESS["MOBILE_USERS_USER_ACTIONS_REINVITE_REJECTED"] = "Impossibile inviare un altro invito. Riprova";

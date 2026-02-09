@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKSMOBILE_CHECKLIST_CONTROLLER_DELETE_CHECKLIST"] = "This checklist does not exist";
-$MESS["TASKSMOBILE_CHECKLIST_CONTROLLER_SAVE_ERROR"] = "Could not save checklist";

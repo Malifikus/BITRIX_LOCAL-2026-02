@@ -1,3 +1,0 @@
-<?php
-
-$MESS['BIZPROC_PUBLIC_ENTITY_DOCUMENT_WORKFLOW_ENTITY_NAME'] = 'Бизнес-процессы';

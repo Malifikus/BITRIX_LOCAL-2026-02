@@ -1,4 +1,0 @@
-<?
-$MESS["GD_ORDERS_ORDER_ID"] = "ID";
-$MESS["GD_ORDERS_TAB_ORDERS"] = "Ordini";
-?>

@@ -1,3 +1,0 @@
-<?php
-$MESS["LANDING_WIDGET_CLASS_APPS_DESKTOP_TITLE_MSGVER_1"] = "Aplicativo de desktop";
-$MESS["LANDING_WIDGET_CLASS_APPS_MOBILE_TITLE"] = "Aplicativo móvel";

@@ -1,3 +1,0 @@
-<?php
-$MESS["COLLAPSIBLE_STRING_VIEW_LESS"] = "mniej";
-$MESS["COLLAPSIBLE_STRING_VIEW_MORE"] = "więcej";

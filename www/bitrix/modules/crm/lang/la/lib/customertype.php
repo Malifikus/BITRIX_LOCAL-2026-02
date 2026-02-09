@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_CUSTOMER_GENERAL"] = "Primario";
-$MESS["CRM_CUSTOMER_RETURNING"] = "Repetido";

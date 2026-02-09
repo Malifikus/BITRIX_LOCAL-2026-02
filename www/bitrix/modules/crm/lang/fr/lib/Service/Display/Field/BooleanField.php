@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_FIELD_BOOLEAN_NO"] = "Non";
-$MESS["CRM_FIELD_BOOLEAN_YES"] = "Oui";

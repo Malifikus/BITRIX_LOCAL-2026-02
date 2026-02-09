@@ -1,7 +1,0 @@
-<?php
-$MESS["VOX_INVOICES_DATE_RANGE"] = "Plage de dates";
-$MESS["VOX_INVOICES_DOCUMENT_DATE"] = "Date de facture";
-$MESS["VOX_INVOICES_DOCUMENT_NUMBER"] = "#";
-$MESS["VOX_INVOICES_DOCUMENT_TYPE"] = "Type du document";
-$MESS["VOX_INVOICES_DOWNLOAD"] = "Télécharger";
-$MESS["VOX_INVOICES_TOTAL_AMOUNT"] = "Montant total";

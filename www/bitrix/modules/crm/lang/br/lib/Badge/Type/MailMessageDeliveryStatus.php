@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_BADGE_MAIL_MESSAGE_DELIVERY_ERROR"] = "Erro de entrega";
-$MESS["CRM_BADGE_MAIL_MESSAGE_STATUS_FIELD_NAME"] = "Status da mensagem";

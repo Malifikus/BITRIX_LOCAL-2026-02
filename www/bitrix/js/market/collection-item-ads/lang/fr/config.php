@@ -1,4 +1,0 @@
-<?php
-$MESS["MARKET_COLLECTIONS_ITEM_ADS_JS_ADVERTISING"] = "Pubs";
-$MESS["MARKET_COLLECTIONS_ITEM_ADS_JS_ADVERTISING_SPACE_PARTNERS"] = "Cet espace publicitaire est réservé aux partenaires.";
-$MESS["MARKET_COLLECTIONS_ITEM_ADS_JS_CLICK_TO_VIEW"] = "Cliquez pour afficher";

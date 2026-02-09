@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_TIMELINE_MENU_FASTEN"] = "Przypnij";
-$MESS["CRM_TIMELINE_MENU_UNFASTEN"] = "Odepnij";

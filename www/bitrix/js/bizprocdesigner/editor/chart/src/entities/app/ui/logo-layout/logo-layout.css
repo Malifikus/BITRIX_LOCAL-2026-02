@@ -1,7 +1,0 @@
-.editor-chart-logo-layout {
-	display: flex;
-	justify-content: flex-start;
-	align-items: center;
-	gap: var(--ui-space-inline-sm);
-	height: 44px;
-}

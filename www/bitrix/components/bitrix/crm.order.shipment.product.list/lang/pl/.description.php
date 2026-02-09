@@ -1,4 +1,0 @@
-<?
-$MESS["CRM_ORDER_SHIPMENT_PRODUCT_LIST_DESCRIPTION"] = "Lista produktów do wysyłki";
-$MESS["CRM_ORDER_SHIPMENT_PRODUCT_LIST_NAME"] = "Lista wysyłkowa";
-?>

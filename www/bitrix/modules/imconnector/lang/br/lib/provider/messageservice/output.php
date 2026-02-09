@@ -1,3 +1,0 @@
-<?php
-$MESS["IMCONNECTOR_PROVIDER_MESSAGESERVICE_ERROR_DELETE_CONNECTION"] = "Erro ao desconectar o conector.";
-$MESS["IMCONNECTOR_PROVIDER_MESSAGESERVICE_ERROR_MODULE_NOT_INSTALLED"] = "O módulo \"Serviços de Mensagem\" não está instalado.";

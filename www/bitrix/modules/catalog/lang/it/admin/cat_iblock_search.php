@@ -1,3 +1,0 @@
-<?
-$MESS["BX_MOD_CATALOG_ADMIN_CIS_HEAD_ID"] = "ID";
-?>

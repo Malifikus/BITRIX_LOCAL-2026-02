@@ -5,13 +5,14 @@ docker-compose.override.yml
 # Logs
 *.log
 
-# Uploads — НЕ в Git!
+# Uploads
 www/upload/
 
-# Кэш Битрикс — НЕ в Git!
-www/bitrix/cache/
-www/bitrix/managed_cache/
-www/bitrix/tmp/
+# Bitrix core — НЕ в Git!
+www/bitrix/
+!www/bitrix/.settings.php
+!www/bitrix/php_interface/
+!www/bitrix/php_interface/init.php
 
 # Composer
 /vendor/
@@ -21,7 +22,5 @@ www/bitrix/tmp/
 .vscode/
 *.swp
 .DS_Store
-
-# Системные файлы
 Thumbs.db
 EOF

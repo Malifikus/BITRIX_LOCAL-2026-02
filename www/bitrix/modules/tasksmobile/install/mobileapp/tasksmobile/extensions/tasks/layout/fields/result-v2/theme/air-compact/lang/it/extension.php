@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_FIELDS_RESULT_V2_AIR_COMPACT_TITLE"] = "Riepiloghi stato";
-$MESS["TASKS_FIELDS_RESULT_V2_AIR_COMPACT_TITLE_MULTI"] = "Riepiloghi stato: #COUNT#";

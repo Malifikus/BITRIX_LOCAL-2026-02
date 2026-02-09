@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_TIMELINE_BIZPROC_TERMINATED_TEXT"] = "Interrompido";
-$MESS["CRM_TIMELINE_BIZPROC_TERMINATED_TITLE"] = "Fluxo de trabalho";

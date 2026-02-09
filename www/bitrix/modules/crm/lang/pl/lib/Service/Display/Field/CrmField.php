@@ -1,2 +1,0 @@
-<?php
-$MESS["CRM_FIELD_OWNER_TYPE_ORDER_TITLE"] = "Zamówienie ##ACCOUNT_NUMBER#";

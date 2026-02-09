@@ -1,3 +1,0 @@
-<?
-$MESS["DISCOUNT_ENTITY_ENTITY_ID_FIELD"] = "ID";
-?>

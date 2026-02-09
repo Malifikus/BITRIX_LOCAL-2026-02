@@ -1,2 +1,0 @@
-<?php
-$MESS["INTR_MAIL_B24_PAGE_TITLE_MSGVER_1"] = "E-mail";

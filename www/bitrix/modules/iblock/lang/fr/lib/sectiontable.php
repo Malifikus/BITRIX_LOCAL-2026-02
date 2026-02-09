@@ -1,3 +1,0 @@
-<?php
-$MESS["IBLOCK_SECTION_ENTITY_IBLOCK_ID_FIELD"] = "Code du bloc d'information";
-$MESS["IBLOCK_SECTION_ENTITY_ID_FIELD"] = "ID";

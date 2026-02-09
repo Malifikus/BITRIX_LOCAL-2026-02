@@ -1,3 +1,0 @@
-<?php
-$MESS["CRM_REPORT_FILTER_MY_REPORTS_PERIOD"] = "Période de rapport";
-$MESS["CRM_REPORT_FILTER_MY_REPORTS_RESPONSIBLE"] = "Responsable";

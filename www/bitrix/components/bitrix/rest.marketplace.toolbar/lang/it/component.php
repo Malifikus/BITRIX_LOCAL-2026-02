@@ -1,6 +1,0 @@
-<?
-$MESS["MARKETPLACE_BEST"] = "Top";
-$MESS["MARKETPLACE_CATEGORIES"] = "Categorie";
-$MESS["MARKETPLACE_SHOPPING"] = "Mie app";
-$MESS["MARKETPLACE_UPDATES"] = "Aggiornamenti";
-?>

@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_V2_TEMPLATE_TITLE_PLACEHOLDER"] = "Template name";
-$MESS["TASKS_V2_TITLE_PLACEHOLDER"] = "Task name";

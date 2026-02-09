@@ -1,4 +1,0 @@
-<?php
-$MESS["SENDER_INTEGRATION_MESSAGE_CONFIG_SENDING_END"] = "Godzina zakończenia";
-$MESS["SENDER_INTEGRATION_MESSAGE_CONFIG_SENDING_START"] = "Godzina rozpoczęcia";
-$MESS["SENDER_INTEGRATION_MESSAGE_CONFIG_SENDING_TIME"] = "Wysyłaj newsletter tylko w określonym czasie";

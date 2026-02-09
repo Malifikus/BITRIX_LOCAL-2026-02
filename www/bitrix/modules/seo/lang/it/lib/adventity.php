@@ -1,2 +1,0 @@
-<?php
-$MESS["ADV_CAMPAIGN_ENTITY_NAME_FIELD"] = "Nome";

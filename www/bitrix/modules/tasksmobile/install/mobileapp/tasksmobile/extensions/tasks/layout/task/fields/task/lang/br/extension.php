@@ -1,3 +1,0 @@
-<?php
-$MESS["TASKS_FIELDS_TASK_MENU_CREATE_BUTTON_TEXT"] = "Criar nova tarefa";
-$MESS["TASKS_FIELDS_TASK_MENU_SELECT_BUTTON_TEXT"] = "Selecionar da lista";

@@ -1,2 +1,0 @@
-<?php
-$MESS["MOBILE_CALL_COPILOT_COMPONENT_TITLE"] = "BitrixGPT Follow-Up";

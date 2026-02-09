@@ -1,2 +1,0 @@
-<?php
-$MESS["BIZPROCDESIGNER_EDITOR_MAIN_PAGE_TITLE"] = "Automation";
